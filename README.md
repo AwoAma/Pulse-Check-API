@@ -22,3 +22,15 @@ This is a lightweight, stateful backend service built using Python and Flask to 
   "timeout": 60,
   "alert_email": "admin@critmon.com"
 }
+## System Architecture
+
+```mermaid
+graph TD
+    Admin([Device Admin]) -->|POST /monitors| API[Pulse Check API]
+    API -->|Starts Countdown Timer| Storage[(In-Memory State)]
+    
+    Device([Critical Device]) -->|POST /monitors/:id/heartbeat| API
+    API -->|Resets Timer to Max| Storage
+    
+    Storage -->|Timer Expirations / Hits 0| Alert[Log JSON Alert to Console & Set Status to Down]
+    '''
