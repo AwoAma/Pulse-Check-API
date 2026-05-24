@@ -171,3 +171,10 @@ The monitor status is then set to `down` and a retry is scheduled after 60 secon
 ## Developer's Choice
 
 I added `GET /monitors/<id>` and `GET /monitors` as my developer's choice features. A monitoring system needs a way to check the current state of devices at any point in time. These endpoints allow engineers to view the status of a single device or all registered devices without having to wait for an alert to fire.
+
+## Known Limitations
+
+- Monitor state is stored in memory and resets if the server restarts.
+- For a production system, state would be stored in a persistent database like PostgreSQL or Redis.
+- The threading approach would be replaced with a task queue like Celery for better reliability at scale.
+- debug=True is used for development only and would be disabled in production.
