@@ -1786,3 +1786,30 @@
 2026-05-25 15:21:47,740 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
 2026-05-25 15:21:47,875 [WARNING]  * Debugger is active!
 2026-05-25 15:21:47,885 [INFO]  * Debugger PIN: 135-147-332
+2026-05-25 15:25:18,703 [INFO] Pulse Check API starting up...
+2026-05-25 15:25:18,704 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 15:25:18,704 [INFO] Available endpoints:
+2026-05-25 15:25:18,705 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 15:25:18,705 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 15:25:18,705 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 15:25:18,706 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 15:25:18,706 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 15:25:18,706 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 15:25:18,786 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-25 15:25:18,787 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-25 15:25:18,790 [INFO]  * Restarting with stat
+2026-05-25 15:25:19,822 [INFO] Pulse Check API starting up...
+2026-05-25 15:25:19,823 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 15:25:19,823 [INFO] Available endpoints:
+2026-05-25 15:25:19,823 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 15:25:19,823 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 15:25:19,824 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 15:25:19,824 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 15:25:19,824 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 15:25:19,825 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 15:25:19,879 [WARNING]  * Debugger is active!
+2026-05-25 15:25:19,889 [INFO]  * Debugger PIN: 135-147-332
+2026-05-25 15:25:39,206 [INFO] 127.0.0.1 - - [25/May/2026 15:25:39] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 15:30:08,877 [INFO] 127.0.0.1 - - [25/May/2026 15:30:08] "[33mGET /monitors/ HTTP/1.1[0m" 404 -
+2026-05-25 15:30:18,843 [INFO] 127.0.0.1 - - [25/May/2026 15:30:18] "GET /monitors HTTP/1.1" 200 -
