@@ -1,0 +1,1788 @@
+2026-05-25 00:43:01,883 [INFO] Pulse Check API starting up...
+2026-05-25 00:43:01,990 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-25 00:43:01,991 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-25 00:43:02,012 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:43:02,300 [INFO] Pulse Check API starting up...
+2026-05-25 00:43:02,323 [WARNING]  * Debugger is active!
+2026-05-25 00:43:02,326 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:43:55,067 [INFO] 127.0.0.1 - - [25/May/2026 00:43:55] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:43:55,155 [INFO] 127.0.0.1 - - [25/May/2026 00:43:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-25 00:46:05,900 [INFO] 127.0.0.1 - - [25/May/2026 00:46:05] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:46:06,167 [INFO] 127.0.0.1 - - [25/May/2026 00:46:06] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:46:06,262 [INFO] 127.0.0.1 - - [25/May/2026 00:46:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-25 00:46:07,424 [INFO] 127.0.0.1 - - [25/May/2026 00:46:07] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:46:17,330 [INFO] 127.0.0.1 - - [25/May/2026 00:46:17] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:46:20,451 [INFO] 127.0.0.1 - - [25/May/2026 00:46:20] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:46:21,416 [INFO] 127.0.0.1 - - [25/May/2026 00:46:21] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:46:27,946 [INFO] 127.0.0.1 - - [25/May/2026 00:46:27] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:46:29,617 [INFO] 127.0.0.1 - - [25/May/2026 00:46:29] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:48:38,339 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\IPython\\__init__.py', reloading
+2026-05-25 00:48:38,408 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:38,739 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:38,770 [WARNING]  * Debugger is active!
+2026-05-25 00:48:38,774 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:38,944 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\pandas\\util\\_tester.py', reloading
+2026-05-25 00:48:38,995 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:39,327 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:39,357 [WARNING]  * Debugger is active!
+2026-05-25 00:48:39,360 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:39,418 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\airflow\\models\\dag.py', reloading
+2026-05-25 00:48:39,477 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:39,810 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:39,838 [WARNING]  * Debugger is active!
+2026-05-25 00:48:39,842 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:39,875 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\anyio\\_core\\_subprocesses.py', reloading
+2026-05-25 00:48:39,927 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:40,226 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:40,255 [WARNING]  * Debugger is active!
+2026-05-25 00:48:40,258 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:40,288 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\asttokens\\line_numbers.py', reloading
+2026-05-25 00:48:40,341 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:40,818 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:40,848 [WARNING]  * Debugger is active!
+2026-05-25 00:48:40,850 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:40,907 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\cadwyn\\applications.py', reloading
+2026-05-25 00:48:40,965 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:41,288 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:41,313 [WARNING]  * Debugger is active!
+2026-05-25 00:48:41,316 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:41,358 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\click\\decorators.py', reloading
+2026-05-25 00:48:41,405 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:41,711 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:41,739 [WARNING]  * Debugger is active!
+2026-05-25 00:48:41,743 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:41,776 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\debugpy\\public_api.py', reloading
+2026-05-25 00:48:41,830 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:42,142 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:42,172 [WARNING]  * Debugger is active!
+2026-05-25 00:48:42,175 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:42,228 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\fastapi\\background.py', reloading
+2026-05-25 00:48:42,282 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:42,583 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:42,612 [WARNING]  * Debugger is active!
+2026-05-25 00:48:42,615 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:42,652 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\starlette\\routing.py', reloading
+2026-05-25 00:48:42,703 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:43,110 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:43,163 [WARNING]  * Debugger is active!
+2026-05-25 00:48:43,168 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:43,258 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\fastjsonschema\\__init__.py', reloading
+2026-05-25 00:48:43,338 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:43,724 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:43,748 [WARNING]  * Debugger is active!
+2026-05-25 00:48:43,751 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:43,775 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\typing.py', reloading
+2026-05-25 00:48:43,824 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:44,114 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:44,139 [WARNING]  * Debugger is active!
+2026-05-25 00:48:44,144 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:44,178 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\git\\objects\\base.py', reloading
+2026-05-25 00:48:44,225 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:44,550 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:44,578 [WARNING]  * Debugger is active!
+2026-05-25 00:48:44,580 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:44,619 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\git\\repo\\__init__.py', reloading
+2026-05-25 00:48:44,666 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:44,963 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:44,986 [WARNING]  * Debugger is active!
+2026-05-25 00:48:44,989 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:45,029 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\h11\\_events.py', reloading
+2026-05-25 00:48:45,075 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:45,388 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:45,417 [WARNING]  * Debugger is active!
+2026-05-25 00:48:45,420 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:45,464 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\httpcore\\_sync\\__init__.py', reloading
+2026-05-25 00:48:45,511 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:45,834 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:45,861 [WARNING]  * Debugger is active!
+2026-05-25 00:48:45,864 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:45,935 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\httpx\\_client.py', reloading
+2026-05-25 00:48:45,985 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:46,274 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:46,298 [WARNING]  * Debugger is active!
+2026-05-25 00:48:46,301 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:46,361 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\httpx\\_urls.py', reloading
+2026-05-25 00:48:46,402 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:46,761 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:46,786 [WARNING]  * Debugger is active!
+2026-05-25 00:48:46,789 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:46,821 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\isoduration\\formatter\\__init__.py', reloading
+2026-05-25 00:48:46,865 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:47,179 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:47,205 [WARNING]  * Debugger is active!
+2026-05-25 00:48:47,208 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:47,237 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\jinja2\\bccache.py', reloading
+2026-05-25 00:48:47,279 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:47,637 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:47,667 [WARNING]  * Debugger is active!
+2026-05-25 00:48:47,670 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:47,714 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\jupyterlab_server\\config.py', reloading
+2026-05-25 00:48:47,760 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:48,054 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:48,076 [WARNING]  * Debugger is active!
+2026-05-25 00:48:48,080 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:48,118 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\jwt\\api_jws.py', reloading
+2026-05-25 00:48:48,167 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:48,472 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:48,500 [WARNING]  * Debugger is active!
+2026-05-25 00:48:48,502 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:48,549 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\libcst\\_nodes\\op.py', reloading
+2026-05-25 00:48:48,607 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:48,905 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:48,932 [WARNING]  * Debugger is active!
+2026-05-25 00:48:48,934 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:48,979 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\marshmallow\\schema.py', reloading
+2026-05-25 00:48:49,028 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:49,331 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:49,356 [WARNING]  * Debugger is active!
+2026-05-25 00:48:49,359 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:49,467 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\multipart\\__init__.py', reloading
+2026-05-25 00:48:49,510 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:49,818 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:49,844 [WARNING]  * Debugger is active!
+2026-05-25 00:48:49,849 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:49,873 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\nbconvert\\exporters\\templateexporter.py', reloading
+2026-05-25 00:48:49,918 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:50,226 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:50,251 [WARNING]  * Debugger is active!
+2026-05-25 00:48:50,254 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:50,707 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\opentelemetry\\attributes\\__init__.py', reloading
+2026-05-25 00:48:50,753 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:51,073 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:51,105 [WARNING]  * Debugger is active!
+2026-05-25 00:48:51,109 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:51,144 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\pathspec\\pattern.py', reloading
+2026-05-25 00:48:51,193 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:51,617 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:51,659 [WARNING]  * Debugger is active!
+2026-05-25 00:48:51,664 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:51,726 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\pluggy\\__init__.py', reloading
+2026-05-25 00:48:51,803 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:52,179 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:52,205 [WARNING]  * Debugger is active!
+2026-05-25 00:48:52,208 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:52,241 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\prompt_toolkit\\shortcuts\\utils.py', reloading
+2026-05-25 00:48:52,287 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:52,575 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:52,602 [WARNING]  * Debugger is active!
+2026-05-25 00:48:52,605 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:52,644 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\pydantic\\config.py', reloading
+2026-05-25 00:48:52,694 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:53,089 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:53,136 [WARNING]  * Debugger is active!
+2026-05-25 00:48:53,141 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:53,187 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\pydantic_settings\\sources\\providers\\aws.py', reloading
+2026-05-25 00:48:53,274 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:53,663 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:53,693 [WARNING]  * Debugger is active!
+2026-05-25 00:48:53,696 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:53,737 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\pytest\\__init__.py', reloading
+2026-05-25 00:48:53,788 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:54,095 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:54,121 [WARNING]  * Debugger is active!
+2026-05-25 00:48:54,124 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:54,159 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pytest\\monkeypatch.py', reloading
+2026-05-25 00:48:54,210 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:54,526 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:54,549 [WARNING]  * Debugger is active!
+2026-05-25 00:48:54,553 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:54,594 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\referencing\\__init__.py', reloading
+2026-05-25 00:48:54,637 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:54,953 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:54,980 [WARNING]  * Debugger is active!
+2026-05-25 00:48:54,983 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:55,022 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\ruamel\\yaml\\__init__.py', reloading
+2026-05-25 00:48:55,074 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:55,417 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:55,443 [WARNING]  * Debugger is active!
+2026-05-25 00:48:55,446 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:55,484 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\fft\\_fftlog.py', reloading
+2026-05-25 00:48:55,546 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:55,903 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:55,939 [WARNING]  * Debugger is active!
+2026-05-25 00:48:55,944 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:56,019 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\interpolate\\_fitpack2.py', reloading
+2026-05-25 00:48:56,068 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:56,404 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:56,436 [WARNING]  * Debugger is active!
+2026-05-25 00:48:56,440 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:56,475 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\linalg\\_decomp_svd.py', reloading
+2026-05-25 00:48:56,522 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:56,816 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:56,842 [WARNING]  * Debugger is active!
+2026-05-25 00:48:56,845 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:56,875 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\ndimage\\_support_alternative_backends.py', reloading
+2026-05-25 00:48:56,918 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:57,226 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:57,251 [WARNING]  * Debugger is active!
+2026-05-25 00:48:57,255 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:57,332 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\optimize\\_minpack_py.py', reloading
+2026-05-25 00:48:57,377 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:57,694 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:57,720 [WARNING]  * Debugger is active!
+2026-05-25 00:48:57,724 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:57,757 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\signal\\_short_time_fft.py', reloading
+2026-05-25 00:48:57,802 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:58,103 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:58,128 [WARNING]  * Debugger is active!
+2026-05-25 00:48:58,131 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:58,203 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\spatial\\_kdtree.py', reloading
+2026-05-25 00:48:58,252 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:58,550 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:58,573 [WARNING]  * Debugger is active!
+2026-05-25 00:48:58,577 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:58,645 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\special\\_lambertw.py', reloading
+2026-05-25 00:48:58,687 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:58,985 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:59,013 [WARNING]  * Debugger is active!
+2026-05-25 00:48:59,016 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:59,069 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\scipy\\stats\\_entropy.py', reloading
+2026-05-25 00:48:59,119 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:59,425 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:59,448 [WARNING]  * Debugger is active!
+2026-05-25 00:48:59,452 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:59,493 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\sentry_sdk\\crons\\decorator.py', reloading
+2026-05-25 00:48:59,538 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:48:59,865 [INFO] Pulse Check API starting up...
+2026-05-25 00:48:59,891 [WARNING]  * Debugger is active!
+2026-05-25 00:48:59,894 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:48:59,955 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\streamlit\\commands\\echo.py', reloading
+2026-05-25 00:49:00,000 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:00,315 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:00,340 [WARNING]  * Debugger is active!
+2026-05-25 00:49:00,344 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:00,383 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\tenacity\\before.py', reloading
+2026-05-25 00:49:00,434 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:00,747 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:00,776 [WARNING]  * Debugger is active!
+2026-05-25 00:49:00,779 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:00,811 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\traitlets\\utils\\decorators.py', reloading
+2026-05-25 00:49:00,855 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:01,182 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:01,212 [WARNING]  * Debugger is active!
+2026-05-25 00:49:01,215 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:01,250 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\urllib3\\_collections.py', reloading
+2026-05-25 00:49:01,299 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:01,608 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:01,636 [WARNING]  * Debugger is active!
+2026-05-25 00:49:01,639 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:01,671 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\wcwidth\\unicode_versions.py', reloading
+2026-05-25 00:49:01,713 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:02,027 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:02,054 [WARNING]  * Debugger is active!
+2026-05-25 00:49:02,057 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:02,091 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\websockets\\asyncio\\router.py', reloading
+2026-05-25 00:49:02,139 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:02,475 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:02,502 [WARNING]  * Debugger is active!
+2026-05-25 00:49:02,505 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:02,562 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\wirerope\\wire.py', reloading
+2026-05-25 00:49:02,607 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:02,964 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:03,039 [WARNING]  * Debugger is active!
+2026-05-25 00:49:03,046 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:03,158 [INFO]  * Detected change in 'C:\\Python314\\Lib\\site-packages\\huggingface_hub\\_buckets.py', reloading
+2026-05-25 00:49:03,246 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:03,740 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:03,770 [WARNING]  * Debugger is active!
+2026-05-25 00:49:03,774 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:03,854 [INFO]  * Detected change in 'C:\\Python314\\Lib\\site-packages\\huggingface_hub\\_commit_api.py', reloading
+2026-05-25 00:49:03,903 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:04,224 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:04,253 [WARNING]  * Debugger is active!
+2026-05-25 00:49:04,256 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:04,289 [INFO]  * Detected change in 'C:\\Python314\\Lib\\site-packages\\huggingface_hub\\inference\\_generated\\types\\question_answering.py', reloading
+2026-05-25 00:49:04,335 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:04,741 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:04,767 [WARNING]  * Debugger is active!
+2026-05-25 00:49:04,771 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:49:04,813 [INFO]  * Detected change in 'C:\\Python314\\Lib\\site-packages\\huggingface_hub\\utils\\__init__.py', reloading
+2026-05-25 00:49:04,859 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:49:05,199 [INFO] Pulse Check API starting up...
+2026-05-25 00:49:05,228 [WARNING]  * Debugger is active!
+2026-05-25 00:49:05,233 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:55:59,099 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:55:59,144 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:55:59,455 [INFO] Pulse Check API starting up...
+2026-05-25 00:55:59,482 [WARNING]  * Debugger is active!
+2026-05-25 00:55:59,484 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:55:59,664 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:55:59,707 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:55:59,996 [INFO] Pulse Check API starting up...
+2026-05-25 00:56:00,023 [WARNING]  * Debugger is active!
+2026-05-25 00:56:00,026 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:56:10,935 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:56:10,978 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:56:11,275 [INFO] Pulse Check API starting up...
+2026-05-25 00:56:11,302 [WARNING]  * Debugger is active!
+2026-05-25 00:56:11,305 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:56:40,875 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:56:40,926 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:56:41,301 [INFO] Pulse Check API starting up...
+2026-05-25 00:56:41,335 [WARNING]  * Debugger is active!
+2026-05-25 00:56:41,337 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:56:49,141 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:56:49,218 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:56:49,497 [INFO] Pulse Check API starting up...
+2026-05-25 00:56:49,520 [WARNING]  * Debugger is active!
+2026-05-25 00:56:49,522 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:56:56,754 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:56:56,798 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:56:57,098 [INFO] Pulse Check API starting up...
+2026-05-25 00:56:57,124 [WARNING]  * Debugger is active!
+2026-05-25 00:56:57,127 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:57:02,955 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:57:03,000 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:57:03,305 [INFO] Pulse Check API starting up...
+2026-05-25 00:57:03,337 [WARNING]  * Debugger is active!
+2026-05-25 00:57:03,344 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:57:09,378 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:57:09,422 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:57:09,762 [INFO] Pulse Check API starting up...
+2026-05-25 00:57:09,785 [WARNING]  * Debugger is active!
+2026-05-25 00:57:09,788 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:57:16,691 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 00:57:16,732 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:57:17,035 [INFO] Pulse Check API starting up...
+2026-05-25 00:57:17,063 [WARNING]  * Debugger is active!
+2026-05-25 00:57:17,065 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:57:43,293 [INFO] 127.0.0.1 - - [25/May/2026 00:57:43] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:57:44,594 [INFO] 127.0.0.1 - - [25/May/2026 00:57:44] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:57:55,474 [INFO] Pulse Check API starting up...
+2026-05-25 00:57:55,526 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-25 00:57:55,526 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-25 00:57:55,539 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 00:57:55,841 [INFO] Pulse Check API starting up...
+2026-05-25 00:57:55,867 [WARNING]  * Debugger is active!
+2026-05-25 00:57:55,870 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 00:58:24,900 [INFO] 127.0.0.1 - - [25/May/2026 00:58:24] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:58:27,133 [INFO] 127.0.0.1 - - [25/May/2026 00:58:27] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 00:58:27,966 [INFO] 127.0.0.1 - - [25/May/2026 00:58:27] "[33mGET / HTTP/1.1[0m" 404 -
+2026-05-25 01:00:05,107 [INFO] 127.0.0.1 - - [25/May/2026 01:00:05] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 01:01:43,293 [INFO]  * Detected change in 'C:\\Python314\\Lib\\email\\policy.py', reloading
+2026-05-25 01:01:43,343 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 01:01:43,672 [INFO] Pulse Check API starting up...
+2026-05-25 01:01:43,712 [WARNING]  * Debugger is active!
+2026-05-25 01:01:43,717 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 01:02:20,250 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 01:02:20,338 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 01:02:20,643 [INFO] Pulse Check API starting up...
+2026-05-25 01:02:20,643 [INFO] Available endpoints:
+2026-05-25 01:02:20,644 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 01:02:20,644 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 01:02:20,644 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 01:02:20,644 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 01:02:20,644 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 01:02:20,667 [WARNING]  * Debugger is active!
+2026-05-25 01:02:20,670 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 01:05:07,705 [INFO] Monitor created for 'device-123' | Timeout: 60 seconds | Email: you@example.com
+2026-05-25 01:05:07,706 [INFO] 127.0.0.1 - - [25/May/2026 01:05:07] "[35m[1mPOST /monitors HTTP/1.1[0m" 201 -
+2026-05-25 01:06:07,717 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T01:06:07.717640Z
+2026-05-25 01:06:07,721 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 07:45:42,836 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 07:46:03,575 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\IPython\\display.py', reloading
+2026-05-25 07:46:03,693 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 07:46:04,630 [INFO] Pulse Check API starting up...
+2026-05-25 07:46:04,631 [INFO] Available endpoints:
+2026-05-25 07:46:04,632 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 07:46:04,632 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 07:46:04,632 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 07:46:04,633 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 07:46:04,633 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 07:46:04,660 [INFO] Restored active monitor 'device-123' from disk.
+2026-05-25 07:46:04,779 [WARNING]  * Debugger is active!
+2026-05-25 07:46:04,788 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 07:47:04,671 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T07:47:04.671776Z
+2026-05-25 07:47:04,674 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 07:48:04,682 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 07:49:04,694 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T07:49:04.694134Z
+2026-05-25 07:49:04,695 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 07:50:04,699 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 07:51:04,711 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T07:51:04.711506Z
+2026-05-25 07:51:04,714 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 07:52:04,730 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 07:53:04,746 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T07:53:04.745986Z
+2026-05-25 07:53:04,747 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 07:54:04,750 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 07:55:04,762 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T07:55:04.762424Z
+2026-05-25 07:55:04,767 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 07:56:04,778 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 07:57:04,793 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T07:57:04.793411Z
+2026-05-25 07:57:04,797 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 07:58:04,811 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 07:59:04,826 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T07:59:04.826721Z
+2026-05-25 07:59:04,831 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:00:04,844 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:01:04,860 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:01:04.860759Z
+2026-05-25 08:01:04,865 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:02:04,876 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:03:04,892 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:03:04.892275Z
+2026-05-25 08:03:04,895 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:04:04,907 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:05:04,909 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:05:04.909258Z
+2026-05-25 08:05:04,912 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:06:04,924 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:07:04,941 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:07:04.941207Z
+2026-05-25 08:07:04,944 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:07:51,568 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\__init__.py', reloading
+2026-05-25 08:07:51,635 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 08:07:52,258 [INFO] Pulse Check API starting up...
+2026-05-25 08:07:52,259 [INFO] Available endpoints:
+2026-05-25 08:07:52,260 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 08:07:52,260 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 08:07:52,261 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 08:07:52,261 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 08:07:52,261 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 08:07:52,276 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 08:07:52,348 [WARNING]  * Debugger is active!
+2026-05-25 08:07:52,351 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 08:07:52,406 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\werkzeug\\_internal.py', reloading
+2026-05-25 08:07:52,467 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 08:07:52,783 [INFO] Pulse Check API starting up...
+2026-05-25 08:07:52,784 [INFO] Available endpoints:
+2026-05-25 08:07:52,784 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 08:07:52,784 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 08:07:52,784 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 08:07:52,784 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 08:07:52,784 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 08:07:52,785 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 08:07:52,808 [WARNING]  * Debugger is active!
+2026-05-25 08:07:52,812 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 08:07:53,455 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 08:07:53,506 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 08:07:53,804 [INFO] Pulse Check API starting up...
+2026-05-25 08:07:53,804 [INFO] Available endpoints:
+2026-05-25 08:07:53,804 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 08:07:53,804 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 08:07:53,805 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 08:07:53,805 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 08:07:53,805 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 08:07:53,806 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 08:07:53,830 [WARNING]  * Debugger is active!
+2026-05-25 08:07:53,833 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 08:07:58,319 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\templating.py', reloading
+2026-05-25 08:07:58,417 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 08:07:58,844 [INFO] Pulse Check API starting up...
+2026-05-25 08:07:58,844 [INFO] Available endpoints:
+2026-05-25 08:07:58,845 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 08:07:58,845 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 08:07:58,845 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 08:07:58,845 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 08:07:58,845 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 08:07:58,846 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 08:07:58,872 [WARNING]  * Debugger is active!
+2026-05-25 08:07:58,874 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 08:08:51,534 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 08:08:51,603 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 08:08:51,880 [INFO] Pulse Check API starting up...
+2026-05-25 08:08:51,881 [INFO] Available endpoints:
+2026-05-25 08:08:51,881 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 08:08:51,881 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 08:08:51,881 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 08:08:51,881 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 08:08:51,882 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 08:08:51,883 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 08:08:51,907 [WARNING]  * Debugger is active!
+2026-05-25 08:08:51,910 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 08:08:57,329 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 08:08:57,376 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 08:08:57,715 [INFO] Pulse Check API starting up...
+2026-05-25 08:08:57,715 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 08:08:57,716 [INFO] Available endpoints:
+2026-05-25 08:08:57,716 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 08:08:57,716 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 08:08:57,716 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 08:08:57,716 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 08:08:57,717 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 08:08:57,718 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 08:08:57,743 [WARNING]  * Debugger is active!
+2026-05-25 08:08:57,745 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 08:09:57,730 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:10:57,748 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:10:57.748621Z
+2026-05-25 08:10:57,751 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:11:57,763 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:12:57,780 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:12:57.780650Z
+2026-05-25 08:12:57,783 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:13:57,796 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:14:57,808 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:14:57.808633Z
+2026-05-25 08:14:57,811 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:15:57,812 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:16:57,826 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:16:57.826552Z
+2026-05-25 08:16:57,830 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:17:57,844 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:18:57,861 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:18:57.860835Z
+2026-05-25 08:18:57,866 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:19:57,876 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:20:57,892 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:20:57.892602Z
+2026-05-25 08:20:57,896 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:21:57,911 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:22:57,926 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:22:57.926253Z
+2026-05-25 08:22:57,930 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:23:57,942 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:24:57,952 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:24:57.951944Z
+2026-05-25 08:24:57,954 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:25:57,958 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:26:57,974 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:26:57.974266Z
+2026-05-25 08:26:57,978 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:27:57,991 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:28:58,005 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:28:58.005700Z
+2026-05-25 08:28:58,008 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:29:58,022 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:30:58,026 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:30:58.026560Z
+2026-05-25 08:30:58,030 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:30:58,396 [INFO] 127.0.0.1 - - [25/May/2026 08:30:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:02,013 [INFO] 127.0.0.1 - - [25/May/2026 08:31:02] "GET / HTTP/1.1" 200 -
+2026-05-25 08:31:02,043 [INFO] 127.0.0.1 - - [25/May/2026 08:31:02] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:07,044 [INFO] 127.0.0.1 - - [25/May/2026 08:31:07] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:12,039 [INFO] 127.0.0.1 - - [25/May/2026 08:31:12] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:17,725 [INFO] 127.0.0.1 - - [25/May/2026 08:31:17] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:22,732 [INFO] 127.0.0.1 - - [25/May/2026 08:31:22] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:27,729 [INFO] 127.0.0.1 - - [25/May/2026 08:31:27] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:32,723 [INFO] 127.0.0.1 - - [25/May/2026 08:31:32] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:37,729 [INFO] 127.0.0.1 - - [25/May/2026 08:31:37] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:42,730 [INFO] 127.0.0.1 - - [25/May/2026 08:31:42] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:47,728 [INFO] 127.0.0.1 - - [25/May/2026 08:31:47] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:52,724 [INFO] 127.0.0.1 - - [25/May/2026 08:31:52] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:57,726 [INFO] 127.0.0.1 - - [25/May/2026 08:31:57] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:31:58,031 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:32:02,733 [INFO] 127.0.0.1 - - [25/May/2026 08:32:02] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:32:07,732 [INFO] 127.0.0.1 - - [25/May/2026 08:32:07] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:32:12,728 [INFO] 127.0.0.1 - - [25/May/2026 08:32:12] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:32:58,042 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:32:58.041935Z
+2026-05-25 08:32:58,045 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:33:03,731 [INFO] 127.0.0.1 - - [25/May/2026 08:33:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:33:58,057 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:34:03,730 [INFO] 127.0.0.1 - - [25/May/2026 08:34:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:34:58,068 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:34:58.067926Z
+2026-05-25 08:34:58,072 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:35:03,729 [INFO] 127.0.0.1 - - [25/May/2026 08:35:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:35:58,081 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:36:03,735 [INFO] 127.0.0.1 - - [25/May/2026 08:36:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:36:38,805 [INFO] 127.0.0.1 - - [25/May/2026 08:36:38] "[33mGET /api/auth/get-session HTTP/1.1[0m" 404 -
+2026-05-25 08:36:58,083 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:36:58.083222Z
+2026-05-25 08:36:58,086 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:37:03,731 [INFO] 127.0.0.1 - - [25/May/2026 08:37:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:37:58,089 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:38:03,725 [INFO] 127.0.0.1 - - [25/May/2026 08:38:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:38:58,092 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:38:58.091878Z
+2026-05-25 08:38:58,095 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:39:03,722 [INFO] 127.0.0.1 - - [25/May/2026 08:39:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:39:58,100 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:40:03,729 [INFO] 127.0.0.1 - - [25/May/2026 08:40:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:40:58,109 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:40:58.109127Z
+2026-05-25 08:40:58,112 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:41:03,728 [INFO] 127.0.0.1 - - [25/May/2026 08:41:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:41:58,120 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:42:03,729 [INFO] 127.0.0.1 - - [25/May/2026 08:42:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:42:58,133 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:42:58.133845Z
+2026-05-25 08:42:58,136 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:43:03,730 [INFO] 127.0.0.1 - - [25/May/2026 08:43:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:43:58,151 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:44:03,725 [INFO] 127.0.0.1 - - [25/May/2026 08:44:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:44:58,164 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:44:58.164334Z
+2026-05-25 08:44:58,166 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:45:03,723 [INFO] 127.0.0.1 - - [25/May/2026 08:45:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:45:58,180 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:46:03,734 [INFO] 127.0.0.1 - - [25/May/2026 08:46:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:46:58,193 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:46:58.193041Z
+2026-05-25 08:46:58,195 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:47:03,741 [INFO] 127.0.0.1 - - [25/May/2026 08:47:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:47:58,210 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:48:03,733 [INFO] 127.0.0.1 - - [25/May/2026 08:48:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:48:58,215 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:48:58.215231Z
+2026-05-25 08:48:58,218 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:49:03,732 [INFO] 127.0.0.1 - - [25/May/2026 08:49:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:49:58,219 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:50:03,731 [INFO] 127.0.0.1 - - [25/May/2026 08:50:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:50:58,220 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:50:58.220673Z
+2026-05-25 08:50:58,223 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:51:03,725 [INFO] 127.0.0.1 - - [25/May/2026 08:51:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:51:58,225 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:52:03,724 [INFO] 127.0.0.1 - - [25/May/2026 08:52:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:52:58,230 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:52:58.230314Z
+2026-05-25 08:52:58,232 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:53:03,733 [INFO] 127.0.0.1 - - [25/May/2026 08:53:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:53:58,246 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:54:03,732 [INFO] 127.0.0.1 - - [25/May/2026 08:54:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:54:58,250 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:54:58.250233Z
+2026-05-25 08:54:58,252 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:55:03,728 [INFO] 127.0.0.1 - - [25/May/2026 08:55:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:55:58,258 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:56:03,723 [INFO] 127.0.0.1 - - [25/May/2026 08:56:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:56:58,273 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:56:58.272914Z
+2026-05-25 08:56:58,274 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:57:03,734 [INFO] 127.0.0.1 - - [25/May/2026 08:57:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:57:58,288 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 08:58:03,733 [INFO] 127.0.0.1 - - [25/May/2026 08:58:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:58:58,290 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T08:58:58.290197Z
+2026-05-25 08:58:58,307 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 08:59:03,726 [INFO] 127.0.0.1 - - [25/May/2026 08:59:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 08:59:58,314 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:00:03,734 [INFO] 127.0.0.1 - - [25/May/2026 09:00:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:00:58,328 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:00:58.327937Z
+2026-05-25 09:00:58,329 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:01:03,729 [INFO] 127.0.0.1 - - [25/May/2026 09:01:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:01:58,345 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:02:03,728 [INFO] 127.0.0.1 - - [25/May/2026 09:02:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:02:58,349 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:02:58.349553Z
+2026-05-25 09:02:58,352 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:03:03,726 [INFO] 127.0.0.1 - - [25/May/2026 09:03:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:03:58,366 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:04:03,726 [INFO] 127.0.0.1 - - [25/May/2026 09:04:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:04:58,374 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:04:58.374783Z
+2026-05-25 09:04:58,376 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:05:03,734 [INFO] 127.0.0.1 - - [25/May/2026 09:05:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:05:58,383 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:06:03,733 [INFO] 127.0.0.1 - - [25/May/2026 09:06:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:06:58,386 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:06:58.386002Z
+2026-05-25 09:06:58,388 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:07:03,733 [INFO] 127.0.0.1 - - [25/May/2026 09:07:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:07:58,394 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:08:03,736 [INFO] 127.0.0.1 - - [25/May/2026 09:08:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:08:58,395 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:08:58.395717Z
+2026-05-25 09:08:58,397 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:09:03,737 [INFO] 127.0.0.1 - - [25/May/2026 09:09:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:09:58,410 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:10:03,736 [INFO] 127.0.0.1 - - [25/May/2026 09:10:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:10:03,932 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\IPython\\display.py', reloading
+2026-05-25 09:10:04,042 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 09:10:05,014 [INFO] Pulse Check API starting up...
+2026-05-25 09:10:05,015 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 09:10:05,017 [INFO] Available endpoints:
+2026-05-25 09:10:05,018 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 09:10:05,019 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 09:10:05,020 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 09:10:05,020 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 09:10:05,024 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 09:10:05,047 [INFO] Restored active monitor 'device-123' from disk.
+2026-05-25 09:10:05,167 [WARNING]  * Debugger is active!
+2026-05-25 09:10:05,171 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 09:11:03,747 [INFO] 127.0.0.1 - - [25/May/2026 09:11:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:11:05,062 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:11:05.062870Z
+2026-05-25 09:11:05,065 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:12:03,724 [INFO] 127.0.0.1 - - [25/May/2026 09:12:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:12:05,077 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:13:03,736 [INFO] 127.0.0.1 - - [25/May/2026 09:13:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:13:05,094 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:13:05.093921Z
+2026-05-25 09:13:05,096 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:14:03,728 [INFO] 127.0.0.1 - - [25/May/2026 09:14:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:14:05,097 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:15:03,734 [INFO] 127.0.0.1 - - [25/May/2026 09:15:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:15:05,106 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:15:05.106394Z
+2026-05-25 09:15:05,108 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:16:03,736 [INFO] 127.0.0.1 - - [25/May/2026 09:16:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:16:05,120 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:17:03,740 [INFO] 127.0.0.1 - - [25/May/2026 09:17:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:17:05,132 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:17:05.132264Z
+2026-05-25 09:17:05,135 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:18:03,734 [INFO] 127.0.0.1 - - [25/May/2026 09:18:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:18:05,146 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:19:03,735 [INFO] 127.0.0.1 - - [25/May/2026 09:19:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:19:05,156 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:19:05.156111Z
+2026-05-25 09:19:05,160 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:20:03,737 [INFO] 127.0.0.1 - - [25/May/2026 09:20:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:20:05,165 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:20:46,382 [INFO] 127.0.0.1 - - [25/May/2026 09:20:46] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:20:47,030 [INFO] 127.0.0.1 - - [25/May/2026 09:20:47] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:20:50,733 [INFO] Heartbeat received for 'device-123'. Timer reset.
+2026-05-25 09:20:50,734 [INFO] 127.0.0.1 - - [25/May/2026 09:20:50] "POST /monitors/device-123/heartbeat HTTP/1.1" 200 -
+2026-05-25 09:20:50,741 [INFO] 127.0.0.1 - - [25/May/2026 09:20:50] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:20:52,033 [INFO] 127.0.0.1 - - [25/May/2026 09:20:52] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:20:57,033 [INFO] 127.0.0.1 - - [25/May/2026 09:20:57] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:20:57,537 [INFO] Monitor 'device-123' paused.
+2026-05-25 09:20:57,538 [INFO] 127.0.0.1 - - [25/May/2026 09:20:57] "POST /monitors/device-123/pause HTTP/1.1" 200 -
+2026-05-25 09:20:57,545 [INFO] 127.0.0.1 - - [25/May/2026 09:20:57] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:02,040 [INFO] 127.0.0.1 - - [25/May/2026 09:21:02] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:07,033 [INFO] 127.0.0.1 - - [25/May/2026 09:21:07] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:12,041 [INFO] 127.0.0.1 - - [25/May/2026 09:21:12] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:17,036 [INFO] 127.0.0.1 - - [25/May/2026 09:21:17] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:17,569 [INFO] 127.0.0.1 - - [25/May/2026 09:21:17] "POST /monitors/device-123/pause HTTP/1.1" 200 -
+2026-05-25 09:21:17,577 [INFO] 127.0.0.1 - - [25/May/2026 09:21:17] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:22,038 [INFO] 127.0.0.1 - - [25/May/2026 09:21:22] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:24,224 [INFO] 127.0.0.1 - - [25/May/2026 09:21:24] "POST /monitors/device-123/pause HTTP/1.1" 200 -
+2026-05-25 09:21:24,230 [INFO] 127.0.0.1 - - [25/May/2026 09:21:24] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:27,029 [INFO] 127.0.0.1 - - [25/May/2026 09:21:27] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:28,299 [INFO] 127.0.0.1 - - [25/May/2026 09:21:28] "GET / HTTP/1.1" 200 -
+2026-05-25 09:21:28,342 [INFO] 127.0.0.1 - - [25/May/2026 09:21:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:30,917 [INFO] 127.0.0.1 - - [25/May/2026 09:21:30] "POST /monitors/device-123/pause HTTP/1.1" 200 -
+2026-05-25 09:21:30,923 [INFO] 127.0.0.1 - - [25/May/2026 09:21:30] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:32,268 [INFO] 127.0.0.1 - - [25/May/2026 09:21:32] "POST /monitors/device-123/pause HTTP/1.1" 200 -
+2026-05-25 09:21:32,274 [INFO] 127.0.0.1 - - [25/May/2026 09:21:32] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:33,340 [INFO] 127.0.0.1 - - [25/May/2026 09:21:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:34,234 [INFO] 127.0.0.1 - - [25/May/2026 09:21:34] "POST /monitors/device-123/pause HTTP/1.1" 200 -
+2026-05-25 09:21:34,238 [INFO] 127.0.0.1 - - [25/May/2026 09:21:34] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:37,744 [INFO] 127.0.0.1 - - [25/May/2026 09:21:37] "GET / HTTP/1.1" 200 -
+2026-05-25 09:21:37,782 [INFO] 127.0.0.1 - - [25/May/2026 09:21:37] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:39,700 [INFO] Monitor 'device-123' unpaused by heartbeat.
+2026-05-25 09:21:39,703 [INFO] Heartbeat received for 'device-123'. Timer reset.
+2026-05-25 09:21:39,704 [INFO] 127.0.0.1 - - [25/May/2026 09:21:39] "POST /monitors/device-123/heartbeat HTTP/1.1" 200 -
+2026-05-25 09:21:39,712 [INFO] 127.0.0.1 - - [25/May/2026 09:21:39] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:42,772 [INFO] 127.0.0.1 - - [25/May/2026 09:21:42] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:47,777 [INFO] 127.0.0.1 - - [25/May/2026 09:21:47] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:52,782 [INFO] 127.0.0.1 - - [25/May/2026 09:21:52] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:53,996 [INFO] Heartbeat received for 'device-123'. Timer reset.
+2026-05-25 09:21:53,997 [INFO] 127.0.0.1 - - [25/May/2026 09:21:53] "POST /monitors/device-123/heartbeat HTTP/1.1" 200 -
+2026-05-25 09:21:54,003 [INFO] 127.0.0.1 - - [25/May/2026 09:21:54] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:21:57,765 [INFO] 127.0.0.1 - - [25/May/2026 09:21:57] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:02,774 [INFO] 127.0.0.1 - - [25/May/2026 09:22:02] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:07,772 [INFO] 127.0.0.1 - - [25/May/2026 09:22:07] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:12,770 [INFO] 127.0.0.1 - - [25/May/2026 09:22:12] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:18,726 [INFO] 127.0.0.1 - - [25/May/2026 09:22:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:23,731 [INFO] 127.0.0.1 - - [25/May/2026 09:22:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:28,720 [INFO] 127.0.0.1 - - [25/May/2026 09:22:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:33,727 [INFO] 127.0.0.1 - - [25/May/2026 09:22:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:38,721 [INFO] 127.0.0.1 - - [25/May/2026 09:22:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:43,726 [INFO] 127.0.0.1 - - [25/May/2026 09:22:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:48,729 [INFO] 127.0.0.1 - - [25/May/2026 09:22:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:53,724 [INFO] 127.0.0.1 - - [25/May/2026 09:22:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:22:53,994 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:22:53.994665Z
+2026-05-25 09:22:53,997 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:22:58,736 [INFO] 127.0.0.1 - - [25/May/2026 09:22:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:23:03,737 [INFO] 127.0.0.1 - - [25/May/2026 09:23:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:23:08,731 [INFO] 127.0.0.1 - - [25/May/2026 09:23:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:23:13,734 [INFO] 127.0.0.1 - - [25/May/2026 09:23:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:23:54,002 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:24:03,743 [INFO] 127.0.0.1 - - [25/May/2026 09:24:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:24:54,005 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:24:54.005276Z
+2026-05-25 09:24:54,007 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:25:03,739 [INFO] 127.0.0.1 - - [25/May/2026 09:25:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:25:47,362 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 09:25:47,414 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 09:25:47,982 [INFO] Pulse Check API starting up...
+2026-05-25 09:25:47,983 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 09:25:47,983 [INFO] Available endpoints:
+2026-05-25 09:25:47,983 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 09:25:47,983 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 09:25:47,983 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 09:25:47,984 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 09:25:47,984 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 09:25:48,006 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 09:25:48,094 [WARNING]  * Debugger is active!
+2026-05-25 09:25:48,096 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 09:25:48,275 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 09:25:48,317 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 09:25:48,711 [INFO] Pulse Check API starting up...
+2026-05-25 09:25:48,711 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 09:25:48,711 [INFO] Available endpoints:
+2026-05-25 09:25:48,711 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 09:25:48,711 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 09:25:48,711 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 09:25:48,712 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 09:25:48,712 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 09:25:48,713 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 09:25:48,735 [WARNING]  * Debugger is active!
+2026-05-25 09:25:48,737 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 09:25:53,065 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 09:25:53,112 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 09:25:53,429 [INFO] Pulse Check API starting up...
+2026-05-25 09:25:53,429 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 09:25:53,429 [INFO] Available endpoints:
+2026-05-25 09:25:53,430 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 09:25:53,430 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 09:25:53,430 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 09:25:53,430 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 09:25:53,431 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 09:25:53,432 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 09:25:53,455 [WARNING]  * Debugger is active!
+2026-05-25 09:25:53,458 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 09:25:58,713 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 09:25:58,759 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 09:25:59,064 [INFO] Pulse Check API starting up...
+2026-05-25 09:25:59,064 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 09:25:59,064 [INFO] Available endpoints:
+2026-05-25 09:25:59,064 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 09:25:59,064 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 09:25:59,064 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 09:25:59,065 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 09:25:59,065 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 09:25:59,067 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 09:25:59,094 [WARNING]  * Debugger is active!
+2026-05-25 09:25:59,098 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 09:26:03,745 [INFO] 127.0.0.1 - - [25/May/2026 09:26:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:26:07,135 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 09:26:07,218 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 09:26:07,554 [INFO] Pulse Check API starting up...
+2026-05-25 09:26:07,554 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 09:26:07,554 [INFO] Available endpoints:
+2026-05-25 09:26:07,555 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 09:26:07,555 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 09:26:07,555 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 09:26:07,555 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 09:26:07,556 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 09:26:07,557 [INFO] Restored down monitor 'device-123', retry scheduled in 60s.
+2026-05-25 09:26:07,579 [WARNING]  * Debugger is active!
+2026-05-25 09:26:07,582 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 09:27:03,727 [INFO] 127.0.0.1 - - [25/May/2026 09:27:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:27:07,571 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:28:03,730 [INFO] 127.0.0.1 - - [25/May/2026 09:28:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:28:07,576 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:28:07.576286Z
+2026-05-25 09:28:07,580 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:29:03,738 [INFO] 127.0.0.1 - - [25/May/2026 09:29:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:29:07,591 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:30:03,734 [INFO] 127.0.0.1 - - [25/May/2026 09:30:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:30:07,606 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:30:07.606834Z
+2026-05-25 09:30:07,609 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:31:03,729 [INFO] 127.0.0.1 - - [25/May/2026 09:31:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:31:07,609 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:32:03,722 [INFO] 127.0.0.1 - - [25/May/2026 09:32:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:32:07,623 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:32:07.623211Z
+2026-05-25 09:32:07,625 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:33:03,726 [INFO] 127.0.0.1 - - [25/May/2026 09:33:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:33:07,625 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:34:03,726 [INFO] 127.0.0.1 - - [25/May/2026 09:34:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:34:07,634 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:34:07.633967Z
+2026-05-25 09:34:07,637 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:35:03,727 [INFO] 127.0.0.1 - - [25/May/2026 09:35:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:35:07,638 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:36:03,727 [INFO] 127.0.0.1 - - [25/May/2026 09:36:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:36:07,655 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:36:07.655161Z
+2026-05-25 09:36:07,659 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:37:03,727 [INFO] 127.0.0.1 - - [25/May/2026 09:37:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:37:07,669 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:38:03,727 [INFO] 127.0.0.1 - - [25/May/2026 09:38:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:38:07,673 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:38:07.673151Z
+2026-05-25 09:38:07,676 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:39:03,727 [INFO] 127.0.0.1 - - [25/May/2026 09:39:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:39:07,687 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:40:03,719 [INFO] 127.0.0.1 - - [25/May/2026 09:40:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:40:07,688 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:40:07.688289Z
+2026-05-25 09:40:07,690 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:41:03,731 [INFO] 127.0.0.1 - - [25/May/2026 09:41:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:41:07,700 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:42:03,724 [INFO] 127.0.0.1 - - [25/May/2026 09:42:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:42:07,703 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:42:07.703709Z
+2026-05-25 09:42:07,707 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:43:03,727 [INFO] 127.0.0.1 - - [25/May/2026 09:43:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:43:07,718 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:44:03,721 [INFO] 127.0.0.1 - - [25/May/2026 09:44:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:44:07,735 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:44:07.735198Z
+2026-05-25 09:44:07,737 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:45:03,720 [INFO] 127.0.0.1 - - [25/May/2026 09:45:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:45:07,751 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:46:03,739 [INFO] 127.0.0.1 - - [25/May/2026 09:46:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:46:07,768 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:46:07.768021Z
+2026-05-25 09:46:07,770 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:47:03,739 [INFO] 127.0.0.1 - - [25/May/2026 09:47:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:47:07,786 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:48:03,733 [INFO] 127.0.0.1 - - [25/May/2026 09:48:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:48:07,800 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:48:07.800596Z
+2026-05-25 09:48:07,803 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:49:03,737 [INFO] 127.0.0.1 - - [25/May/2026 09:49:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:49:07,813 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:50:03,732 [INFO] 127.0.0.1 - - [25/May/2026 09:50:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:50:07,814 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:50:07.813990Z
+2026-05-25 09:50:07,815 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:50:36,206 [INFO] 127.0.0.1 - - [25/May/2026 09:50:36] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:50:37,768 [INFO] 127.0.0.1 - - [25/May/2026 09:50:37] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:50:38,225 [INFO] 127.0.0.1 - - [25/May/2026 09:50:38] "GET / HTTP/1.1" 200 -
+2026-05-25 09:50:38,253 [INFO] 127.0.0.1 - - [25/May/2026 09:50:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:50:43,247 [INFO] 127.0.0.1 - - [25/May/2026 09:50:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:50:48,246 [INFO] 127.0.0.1 - - [25/May/2026 09:50:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:50:53,252 [INFO] 127.0.0.1 - - [25/May/2026 09:50:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:50:58,255 [INFO] 127.0.0.1 - - [25/May/2026 09:50:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:03,246 [INFO] 127.0.0.1 - - [25/May/2026 09:51:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:07,829 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:51:08,251 [INFO] 127.0.0.1 - - [25/May/2026 09:51:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:13,258 [INFO] 127.0.0.1 - - [25/May/2026 09:51:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:18,248 [INFO] 127.0.0.1 - - [25/May/2026 09:51:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:23,252 [INFO] 127.0.0.1 - - [25/May/2026 09:51:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:28,259 [INFO] 127.0.0.1 - - [25/May/2026 09:51:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:33,246 [INFO] 127.0.0.1 - - [25/May/2026 09:51:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:38,252 [INFO] 127.0.0.1 - - [25/May/2026 09:51:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:43,257 [INFO] 127.0.0.1 - - [25/May/2026 09:51:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:48,247 [INFO] 127.0.0.1 - - [25/May/2026 09:51:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:53,249 [INFO] 127.0.0.1 - - [25/May/2026 09:51:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:51:58,255 [INFO] 127.0.0.1 - - [25/May/2026 09:51:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:03,244 [INFO] 127.0.0.1 - - [25/May/2026 09:52:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:07,838 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:52:07.838237Z
+2026-05-25 09:52:07,840 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:52:08,246 [INFO] 127.0.0.1 - - [25/May/2026 09:52:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:12,175 [INFO] Monitor 'device-123' recovered via heartbeat.
+2026-05-25 09:52:12,177 [INFO] Heartbeat received for 'device-123'. Timer reset.
+2026-05-25 09:52:12,178 [INFO] 127.0.0.1 - - [25/May/2026 09:52:12] "POST /monitors/device-123/heartbeat HTTP/1.1" 200 -
+2026-05-25 09:52:12,183 [INFO] 127.0.0.1 - - [25/May/2026 09:52:12] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:13,244 [INFO] 127.0.0.1 - - [25/May/2026 09:52:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:18,247 [INFO] 127.0.0.1 - - [25/May/2026 09:52:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:23,251 [INFO] 127.0.0.1 - - [25/May/2026 09:52:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:28,255 [INFO] 127.0.0.1 - - [25/May/2026 09:52:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:33,246 [INFO] 127.0.0.1 - - [25/May/2026 09:52:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:38,252 [INFO] 127.0.0.1 - - [25/May/2026 09:52:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:43,257 [INFO] 127.0.0.1 - - [25/May/2026 09:52:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:48,247 [INFO] 127.0.0.1 - - [25/May/2026 09:52:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:53,253 [INFO] 127.0.0.1 - - [25/May/2026 09:52:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:54,789 [INFO] Heartbeat received for 'device-123'. Timer reset.
+2026-05-25 09:52:54,789 [INFO] 127.0.0.1 - - [25/May/2026 09:52:54] "POST /monitors/device-123/heartbeat HTTP/1.1" 200 -
+2026-05-25 09:52:54,795 [INFO] 127.0.0.1 - - [25/May/2026 09:52:54] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:52:58,249 [INFO] 127.0.0.1 - - [25/May/2026 09:52:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:03,247 [INFO] 127.0.0.1 - - [25/May/2026 09:53:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:08,253 [INFO] 127.0.0.1 - - [25/May/2026 09:53:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:13,257 [INFO] 127.0.0.1 - - [25/May/2026 09:53:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:18,246 [INFO] 127.0.0.1 - - [25/May/2026 09:53:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:23,250 [INFO] 127.0.0.1 - - [25/May/2026 09:53:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:24,799 [INFO] Heartbeat received for 'device-123'. Timer reset.
+2026-05-25 09:53:24,800 [INFO] 127.0.0.1 - - [25/May/2026 09:53:24] "POST /monitors/device-123/heartbeat HTTP/1.1" 200 -
+2026-05-25 09:53:24,807 [INFO] 127.0.0.1 - - [25/May/2026 09:53:24] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:28,257 [INFO] 127.0.0.1 - - [25/May/2026 09:53:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:33,245 [INFO] 127.0.0.1 - - [25/May/2026 09:53:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:38,244 [INFO] 127.0.0.1 - - [25/May/2026 09:53:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:43,254 [INFO] 127.0.0.1 - - [25/May/2026 09:53:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:48,245 [INFO] 127.0.0.1 - - [25/May/2026 09:53:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:53,252 [INFO] 127.0.0.1 - - [25/May/2026 09:53:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:53:58,255 [INFO] 127.0.0.1 - - [25/May/2026 09:53:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:03,246 [INFO] 127.0.0.1 - - [25/May/2026 09:54:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:08,248 [INFO] 127.0.0.1 - - [25/May/2026 09:54:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:13,253 [INFO] 127.0.0.1 - - [25/May/2026 09:54:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:18,243 [INFO] 127.0.0.1 - - [25/May/2026 09:54:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:23,251 [INFO] 127.0.0.1 - - [25/May/2026 09:54:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:24,806 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:54:24.806052Z
+2026-05-25 09:54:24,808 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:54:28,257 [INFO] 127.0.0.1 - - [25/May/2026 09:54:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:33,258 [INFO] 127.0.0.1 - - [25/May/2026 09:54:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:38,252 [INFO] 127.0.0.1 - - [25/May/2026 09:54:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:43,253 [INFO] 127.0.0.1 - - [25/May/2026 09:54:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:48,259 [INFO] 127.0.0.1 - - [25/May/2026 09:54:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:53,256 [INFO] 127.0.0.1 - - [25/May/2026 09:54:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:54:58,257 [INFO] 127.0.0.1 - - [25/May/2026 09:54:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:03,244 [INFO] 127.0.0.1 - - [25/May/2026 09:55:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:08,245 [INFO] 127.0.0.1 - - [25/May/2026 09:55:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:13,257 [INFO] 127.0.0.1 - - [25/May/2026 09:55:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:18,243 [INFO] 127.0.0.1 - - [25/May/2026 09:55:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:23,251 [INFO] 127.0.0.1 - - [25/May/2026 09:55:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:24,814 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:55:28,257 [INFO] 127.0.0.1 - - [25/May/2026 09:55:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:33,244 [INFO] 127.0.0.1 - - [25/May/2026 09:55:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:38,250 [INFO] 127.0.0.1 - - [25/May/2026 09:55:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:43,256 [INFO] 127.0.0.1 - - [25/May/2026 09:55:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:48,245 [INFO] 127.0.0.1 - - [25/May/2026 09:55:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:53,248 [INFO] 127.0.0.1 - - [25/May/2026 09:55:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:55:58,256 [INFO] 127.0.0.1 - - [25/May/2026 09:55:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:03,245 [INFO] 127.0.0.1 - - [25/May/2026 09:56:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:08,250 [INFO] 127.0.0.1 - - [25/May/2026 09:56:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:13,248 [INFO] 127.0.0.1 - - [25/May/2026 09:56:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:18,245 [INFO] 127.0.0.1 - - [25/May/2026 09:56:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:23,251 [INFO] 127.0.0.1 - - [25/May/2026 09:56:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:24,819 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T09:56:24.819877Z
+2026-05-25 09:56:24,823 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 09:56:28,255 [INFO] 127.0.0.1 - - [25/May/2026 09:56:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:33,243 [INFO] 127.0.0.1 - - [25/May/2026 09:56:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:38,248 [INFO] 127.0.0.1 - - [25/May/2026 09:56:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:43,253 [INFO] 127.0.0.1 - - [25/May/2026 09:56:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:48,247 [INFO] 127.0.0.1 - - [25/May/2026 09:56:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:53,255 [INFO] 127.0.0.1 - - [25/May/2026 09:56:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:56:58,254 [INFO] 127.0.0.1 - - [25/May/2026 09:56:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:03,244 [INFO] 127.0.0.1 - - [25/May/2026 09:57:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:08,258 [INFO] 127.0.0.1 - - [25/May/2026 09:57:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:13,255 [INFO] 127.0.0.1 - - [25/May/2026 09:57:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:18,244 [INFO] 127.0.0.1 - - [25/May/2026 09:57:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:23,249 [INFO] 127.0.0.1 - - [25/May/2026 09:57:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:24,830 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 09:57:28,255 [INFO] 127.0.0.1 - - [25/May/2026 09:57:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:33,245 [INFO] 127.0.0.1 - - [25/May/2026 09:57:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:38,249 [INFO] 127.0.0.1 - - [25/May/2026 09:57:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:43,256 [INFO] 127.0.0.1 - - [25/May/2026 09:57:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:48,245 [INFO] 127.0.0.1 - - [25/May/2026 09:57:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:53,246 [INFO] 127.0.0.1 - - [25/May/2026 09:57:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:57:58,252 [INFO] 127.0.0.1 - - [25/May/2026 09:57:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:00,976 [INFO] Monitor 'device-123' paused.
+2026-05-25 09:58:00,976 [INFO] 127.0.0.1 - - [25/May/2026 09:58:00] "POST /monitors/device-123/pause HTTP/1.1" 200 -
+2026-05-25 09:58:00,993 [INFO] 127.0.0.1 - - [25/May/2026 09:58:00] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:03,257 [INFO] 127.0.0.1 - - [25/May/2026 09:58:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:08,254 [INFO] 127.0.0.1 - - [25/May/2026 09:58:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:13,250 [INFO] 127.0.0.1 - - [25/May/2026 09:58:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:18,256 [INFO] 127.0.0.1 - - [25/May/2026 09:58:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:23,248 [INFO] 127.0.0.1 - - [25/May/2026 09:58:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:28,253 [INFO] 127.0.0.1 - - [25/May/2026 09:58:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:33,244 [INFO] 127.0.0.1 - - [25/May/2026 09:58:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:38,249 [INFO] 127.0.0.1 - - [25/May/2026 09:58:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:43,252 [INFO] 127.0.0.1 - - [25/May/2026 09:58:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:48,260 [INFO] 127.0.0.1 - - [25/May/2026 09:58:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:53,248 [INFO] 127.0.0.1 - - [25/May/2026 09:58:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:58:58,255 [INFO] 127.0.0.1 - - [25/May/2026 09:58:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:03,258 [INFO] 127.0.0.1 - - [25/May/2026 09:59:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:08,250 [INFO] 127.0.0.1 - - [25/May/2026 09:59:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:13,252 [INFO] 127.0.0.1 - - [25/May/2026 09:59:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:18,243 [INFO] 127.0.0.1 - - [25/May/2026 09:59:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:23,248 [INFO] 127.0.0.1 - - [25/May/2026 09:59:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:28,251 [INFO] 127.0.0.1 - - [25/May/2026 09:59:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:33,244 [INFO] 127.0.0.1 - - [25/May/2026 09:59:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:38,247 [INFO] 127.0.0.1 - - [25/May/2026 09:59:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:43,254 [INFO] 127.0.0.1 - - [25/May/2026 09:59:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:48,244 [INFO] 127.0.0.1 - - [25/May/2026 09:59:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:53,250 [INFO] 127.0.0.1 - - [25/May/2026 09:59:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 09:59:58,252 [INFO] 127.0.0.1 - - [25/May/2026 09:59:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:03,258 [INFO] 127.0.0.1 - - [25/May/2026 10:00:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:08,248 [INFO] 127.0.0.1 - - [25/May/2026 10:00:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:13,256 [INFO] 127.0.0.1 - - [25/May/2026 10:00:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:18,259 [INFO] 127.0.0.1 - - [25/May/2026 10:00:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:23,245 [INFO] 127.0.0.1 - - [25/May/2026 10:00:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:28,250 [INFO] 127.0.0.1 - - [25/May/2026 10:00:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:33,243 [INFO] 127.0.0.1 - - [25/May/2026 10:00:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:38,258 [INFO] 127.0.0.1 - - [25/May/2026 10:00:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:43,255 [INFO] 127.0.0.1 - - [25/May/2026 10:00:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:48,259 [INFO] 127.0.0.1 - - [25/May/2026 10:00:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:53,246 [INFO] 127.0.0.1 - - [25/May/2026 10:00:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:00:58,254 [INFO] 127.0.0.1 - - [25/May/2026 10:00:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:03,258 [INFO] 127.0.0.1 - - [25/May/2026 10:01:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:08,247 [INFO] 127.0.0.1 - - [25/May/2026 10:01:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:13,256 [INFO] 127.0.0.1 - - [25/May/2026 10:01:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:18,259 [INFO] 127.0.0.1 - - [25/May/2026 10:01:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:23,249 [INFO] 127.0.0.1 - - [25/May/2026 10:01:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:28,255 [INFO] 127.0.0.1 - - [25/May/2026 10:01:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:33,259 [INFO] 127.0.0.1 - - [25/May/2026 10:01:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:38,249 [INFO] 127.0.0.1 - - [25/May/2026 10:01:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:43,251 [INFO] 127.0.0.1 - - [25/May/2026 10:01:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:48,246 [INFO] 127.0.0.1 - - [25/May/2026 10:01:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:53,246 [INFO] 127.0.0.1 - - [25/May/2026 10:01:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:01:58,253 [INFO] 127.0.0.1 - - [25/May/2026 10:01:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:03,243 [INFO] 127.0.0.1 - - [25/May/2026 10:02:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:08,249 [INFO] 127.0.0.1 - - [25/May/2026 10:02:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:13,251 [INFO] 127.0.0.1 - - [25/May/2026 10:02:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:18,260 [INFO] 127.0.0.1 - - [25/May/2026 10:02:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:23,246 [INFO] 127.0.0.1 - - [25/May/2026 10:02:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:28,252 [INFO] 127.0.0.1 - - [25/May/2026 10:02:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:33,256 [INFO] 127.0.0.1 - - [25/May/2026 10:02:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:38,248 [INFO] 127.0.0.1 - - [25/May/2026 10:02:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:43,254 [INFO] 127.0.0.1 - - [25/May/2026 10:02:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:48,259 [INFO] 127.0.0.1 - - [25/May/2026 10:02:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:53,247 [INFO] 127.0.0.1 - - [25/May/2026 10:02:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:02:58,257 [INFO] 127.0.0.1 - - [25/May/2026 10:02:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:03,262 [INFO] 127.0.0.1 - - [25/May/2026 10:03:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:08,734 [INFO] 127.0.0.1 - - [25/May/2026 10:03:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:13,725 [INFO] 127.0.0.1 - - [25/May/2026 10:03:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:18,726 [INFO] 127.0.0.1 - - [25/May/2026 10:03:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:23,729 [INFO] 127.0.0.1 - - [25/May/2026 10:03:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:28,726 [INFO] 127.0.0.1 - - [25/May/2026 10:03:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:33,733 [INFO] 127.0.0.1 - - [25/May/2026 10:03:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:38,723 [INFO] 127.0.0.1 - - [25/May/2026 10:03:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:43,732 [INFO] 127.0.0.1 - - [25/May/2026 10:03:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:48,733 [INFO] 127.0.0.1 - - [25/May/2026 10:03:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:53,726 [INFO] 127.0.0.1 - - [25/May/2026 10:03:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:03:58,737 [INFO] 127.0.0.1 - - [25/May/2026 10:03:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:04:03,743 [INFO] 127.0.0.1 - - [25/May/2026 10:04:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:05:03,734 [INFO] 127.0.0.1 - - [25/May/2026 10:05:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:06:03,746 [INFO] 127.0.0.1 - - [25/May/2026 10:06:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:07:03,728 [INFO] 127.0.0.1 - - [25/May/2026 10:07:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:08:03,734 [INFO] 127.0.0.1 - - [25/May/2026 10:08:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:09:03,731 [INFO] 127.0.0.1 - - [25/May/2026 10:09:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:10:03,748 [INFO] 127.0.0.1 - - [25/May/2026 10:10:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:10:44,305 [INFO] 127.0.0.1 - - [25/May/2026 10:10:44] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:10:48,249 [INFO] 127.0.0.1 - - [25/May/2026 10:10:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:10:50,694 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\IPython\\display.py', reloading
+2026-05-25 10:10:50,769 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:10:51,434 [INFO] Pulse Check API starting up...
+2026-05-25 10:10:51,435 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:10:51,435 [INFO] Available endpoints:
+2026-05-25 10:10:51,435 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:10:51,435 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:10:51,435 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:10:51,435 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:10:51,435 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:10:51,544 [WARNING]  * Debugger is active!
+2026-05-25 10:10:51,547 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:10:53,255 [INFO] 127.0.0.1 - - [25/May/2026 10:10:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:10:58,257 [INFO] 127.0.0.1 - - [25/May/2026 10:10:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:03,246 [INFO] 127.0.0.1 - - [25/May/2026 10:11:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:08,254 [INFO] 127.0.0.1 - - [25/May/2026 10:11:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:13,259 [INFO] 127.0.0.1 - - [25/May/2026 10:11:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:18,248 [INFO] 127.0.0.1 - - [25/May/2026 10:11:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:23,251 [INFO] 127.0.0.1 - - [25/May/2026 10:11:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:28,252 [INFO] 127.0.0.1 - - [25/May/2026 10:11:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:33,250 [INFO] 127.0.0.1 - - [25/May/2026 10:11:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:38,255 [INFO] 127.0.0.1 - - [25/May/2026 10:11:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:43,259 [INFO] 127.0.0.1 - - [25/May/2026 10:11:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:48,249 [INFO] 127.0.0.1 - - [25/May/2026 10:11:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:53,256 [INFO] 127.0.0.1 - - [25/May/2026 10:11:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:11:58,258 [INFO] 127.0.0.1 - - [25/May/2026 10:11:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:03,250 [INFO] 127.0.0.1 - - [25/May/2026 10:12:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:08,249 [INFO] 127.0.0.1 - - [25/May/2026 10:12:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:13,249 [INFO] 127.0.0.1 - - [25/May/2026 10:12:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:18,248 [INFO] 127.0.0.1 - - [25/May/2026 10:12:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:23,250 [INFO] 127.0.0.1 - - [25/May/2026 10:12:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:28,259 [INFO] 127.0.0.1 - - [25/May/2026 10:12:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:33,245 [INFO] 127.0.0.1 - - [25/May/2026 10:12:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:38,251 [INFO] 127.0.0.1 - - [25/May/2026 10:12:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:43,729 [INFO] 127.0.0.1 - - [25/May/2026 10:12:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:48,720 [INFO] 127.0.0.1 - - [25/May/2026 10:12:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:53,722 [INFO] 127.0.0.1 - - [25/May/2026 10:12:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:12:58,725 [INFO] 127.0.0.1 - - [25/May/2026 10:12:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:13:03,730 [INFO] 127.0.0.1 - - [25/May/2026 10:13:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:13:08,722 [INFO] 127.0.0.1 - - [25/May/2026 10:13:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:13:13,722 [INFO] 127.0.0.1 - - [25/May/2026 10:13:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:13:18,730 [INFO] 127.0.0.1 - - [25/May/2026 10:13:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:13:23,720 [INFO] 127.0.0.1 - - [25/May/2026 10:13:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:13:28,730 [INFO] 127.0.0.1 - - [25/May/2026 10:13:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:13:33,731 [INFO] 127.0.0.1 - - [25/May/2026 10:13:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:13:38,723 [INFO] 127.0.0.1 - - [25/May/2026 10:13:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:14:03,731 [INFO] 127.0.0.1 - - [25/May/2026 10:14:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:15:03,739 [INFO] 127.0.0.1 - - [25/May/2026 10:15:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:16:03,744 [INFO] 127.0.0.1 - - [25/May/2026 10:16:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:17:03,739 [INFO] 127.0.0.1 - - [25/May/2026 10:17:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:18:03,747 [INFO] 127.0.0.1 - - [25/May/2026 10:18:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:18:03,778 [INFO]  * Detected change in 'C:\\Python314\\Lib\\email\\policy.py', reloading
+2026-05-25 10:18:03,865 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:18:04,218 [INFO] Pulse Check API starting up...
+2026-05-25 10:18:04,218 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:18:04,219 [INFO] Available endpoints:
+2026-05-25 10:18:04,219 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:18:04,219 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:18:04,220 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:18:04,220 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:18:04,220 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:18:04,247 [WARNING]  * Debugger is active!
+2026-05-25 10:18:04,250 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:18:06,319 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\__init__.py', reloading
+2026-05-25 10:18:06,395 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:18:06,775 [INFO] Pulse Check API starting up...
+2026-05-25 10:18:06,775 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:18:06,775 [INFO] Available endpoints:
+2026-05-25 10:18:06,775 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:18:06,776 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:18:06,776 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:18:06,776 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:18:06,776 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:18:06,809 [WARNING]  * Debugger is active!
+2026-05-25 10:18:06,813 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:18:07,059 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\typing.py', reloading
+2026-05-25 10:18:07,129 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:18:07,484 [INFO] Pulse Check API starting up...
+2026-05-25 10:18:07,485 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:18:07,485 [INFO] Available endpoints:
+2026-05-25 10:18:07,485 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:18:07,485 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:18:07,486 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:18:07,486 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:18:07,486 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:18:07,509 [WARNING]  * Debugger is active!
+2026-05-25 10:18:07,512 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:19:03,737 [INFO] 127.0.0.1 - - [25/May/2026 10:19:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:20:03,731 [INFO] 127.0.0.1 - - [25/May/2026 10:20:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:20:59,236 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 10:20:59,296 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:20:59,700 [INFO] Pulse Check API starting up...
+2026-05-25 10:20:59,700 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:20:59,700 [INFO] Available endpoints:
+2026-05-25 10:20:59,700 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:20:59,701 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:20:59,701 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:20:59,701 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:20:59,701 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:20:59,731 [WARNING]  * Debugger is active!
+2026-05-25 10:20:59,735 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:21:03,728 [INFO] 127.0.0.1 - - [25/May/2026 10:21:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:21:05,979 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 10:21:06,032 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:21:06,391 [INFO] Pulse Check API starting up...
+2026-05-25 10:21:06,391 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:21:06,391 [INFO] Available endpoints:
+2026-05-25 10:21:06,391 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:21:06,391 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:21:06,391 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:21:06,391 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:21:06,392 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:21:06,414 [WARNING]  * Debugger is active!
+2026-05-25 10:21:06,417 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:21:13,555 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 10:21:13,614 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:21:13,969 [INFO] Pulse Check API starting up...
+2026-05-25 10:21:13,969 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:21:13,969 [INFO] Available endpoints:
+2026-05-25 10:21:13,969 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:21:13,969 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:21:13,969 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:21:13,970 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:21:13,970 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:21:14,020 [WARNING]  * Debugger is active!
+2026-05-25 10:21:14,026 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:21:21,960 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 10:21:22,031 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:21:22,379 [INFO] Pulse Check API starting up...
+2026-05-25 10:21:22,379 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:21:22,379 [INFO] Available endpoints:
+2026-05-25 10:21:22,379 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:21:22,380 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:21:22,380 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:21:22,380 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:21:22,380 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:21:22,405 [WARNING]  * Debugger is active!
+2026-05-25 10:21:22,407 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:21:30,750 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 10:21:30,799 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:21:31,121 [INFO] Pulse Check API starting up...
+2026-05-25 10:21:31,121 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:21:31,122 [INFO] Available endpoints:
+2026-05-25 10:21:31,122 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:21:31,122 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:21:31,122 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:21:31,122 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:21:31,123 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:21:31,147 [WARNING]  * Debugger is active!
+2026-05-25 10:21:31,150 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:21:39,194 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 10:21:39,258 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:21:39,575 [INFO] Pulse Check API starting up...
+2026-05-25 10:21:39,575 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:21:39,575 [INFO] Available endpoints:
+2026-05-25 10:21:39,576 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:21:39,576 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:21:39,576 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:21:39,576 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:21:39,576 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:21:39,607 [WARNING]  * Debugger is active!
+2026-05-25 10:21:39,610 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:21:46,939 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\downloads\\awo\\Pulse-Check-API\\app.py', reloading
+2026-05-25 10:21:46,995 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 10:21:47,329 [INFO] Pulse Check API starting up...
+2026-05-25 10:21:47,330 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 10:21:47,330 [INFO] Available endpoints:
+2026-05-25 10:21:47,330 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 10:21:47,330 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 10:21:47,330 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 10:21:47,331 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 10:21:47,331 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 10:21:47,331 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 10:21:47,356 [WARNING]  * Debugger is active!
+2026-05-25 10:21:47,359 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 10:22:03,732 [INFO] 127.0.0.1 - - [25/May/2026 10:22:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:23:03,729 [INFO] 127.0.0.1 - - [25/May/2026 10:23:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:24:03,730 [INFO] 127.0.0.1 - - [25/May/2026 10:24:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:25:03,737 [INFO] 127.0.0.1 - - [25/May/2026 10:25:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:26:03,732 [INFO] 127.0.0.1 - - [25/May/2026 10:26:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:27:03,734 [INFO] 127.0.0.1 - - [25/May/2026 10:27:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:28:03,728 [INFO] 127.0.0.1 - - [25/May/2026 10:28:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:29:03,743 [INFO] 127.0.0.1 - - [25/May/2026 10:29:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:30:03,732 [INFO] 127.0.0.1 - - [25/May/2026 10:30:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:31:03,735 [INFO] 127.0.0.1 - - [25/May/2026 10:31:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:32:03,724 [INFO] 127.0.0.1 - - [25/May/2026 10:32:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:33:03,736 [INFO] 127.0.0.1 - - [25/May/2026 10:33:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:34:03,732 [INFO] 127.0.0.1 - - [25/May/2026 10:34:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:35:03,736 [INFO] 127.0.0.1 - - [25/May/2026 10:35:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:36:03,731 [INFO] 127.0.0.1 - - [25/May/2026 10:36:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:37:03,736 [INFO] 127.0.0.1 - - [25/May/2026 10:37:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:38:03,730 [INFO] 127.0.0.1 - - [25/May/2026 10:38:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:39:03,732 [INFO] 127.0.0.1 - - [25/May/2026 10:39:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:40:03,732 [INFO] 127.0.0.1 - - [25/May/2026 10:40:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:41:03,727 [INFO] 127.0.0.1 - - [25/May/2026 10:41:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:42:03,733 [INFO] 127.0.0.1 - - [25/May/2026 10:42:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:43:03,727 [INFO] 127.0.0.1 - - [25/May/2026 10:43:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:44:03,719 [INFO] 127.0.0.1 - - [25/May/2026 10:44:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:45:03,728 [INFO] 127.0.0.1 - - [25/May/2026 10:45:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:46:03,732 [INFO] 127.0.0.1 - - [25/May/2026 10:46:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:47:03,727 [INFO] 127.0.0.1 - - [25/May/2026 10:47:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:48:03,725 [INFO] 127.0.0.1 - - [25/May/2026 10:48:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:49:03,736 [INFO] 127.0.0.1 - - [25/May/2026 10:49:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:50:03,736 [INFO] 127.0.0.1 - - [25/May/2026 10:50:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:51:03,726 [INFO] 127.0.0.1 - - [25/May/2026 10:51:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:52:03,730 [INFO] 127.0.0.1 - - [25/May/2026 10:52:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:53:03,721 [INFO] 127.0.0.1 - - [25/May/2026 10:53:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:54:03,726 [INFO] 127.0.0.1 - - [25/May/2026 10:54:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:55:03,731 [INFO] 127.0.0.1 - - [25/May/2026 10:55:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:56:03,737 [INFO] 127.0.0.1 - - [25/May/2026 10:56:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:56:41,511 [INFO] 127.0.0.1 - - [25/May/2026 10:56:41] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:56:43,245 [INFO] 127.0.0.1 - - [25/May/2026 10:56:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:56:43,588 [INFO] 127.0.0.1 - - [25/May/2026 10:56:43] "GET / HTTP/1.1" 200 -
+2026-05-25 10:56:43,619 [INFO] 127.0.0.1 - - [25/May/2026 10:56:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:56:47,164 [INFO] Monitor 'device-123' unpaused by heartbeat.
+2026-05-25 10:56:47,167 [INFO] Heartbeat received for 'device-123'. Timer reset.
+2026-05-25 10:56:47,168 [INFO] 127.0.0.1 - - [25/May/2026 10:56:47] "POST /monitors/device-123/heartbeat HTTP/1.1" 200 -
+2026-05-25 10:56:47,174 [INFO] 127.0.0.1 - - [25/May/2026 10:56:47] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:56:48,610 [INFO] 127.0.0.1 - - [25/May/2026 10:56:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:56:53,617 [INFO] 127.0.0.1 - - [25/May/2026 10:56:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:56:58,610 [INFO] 127.0.0.1 - - [25/May/2026 10:56:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:03,611 [INFO] 127.0.0.1 - - [25/May/2026 10:57:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:08,616 [INFO] 127.0.0.1 - - [25/May/2026 10:57:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:13,621 [INFO] 127.0.0.1 - - [25/May/2026 10:57:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:18,610 [INFO] 127.0.0.1 - - [25/May/2026 10:57:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:23,615 [INFO] 127.0.0.1 - - [25/May/2026 10:57:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:28,622 [INFO] 127.0.0.1 - - [25/May/2026 10:57:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:33,611 [INFO] 127.0.0.1 - - [25/May/2026 10:57:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:38,616 [INFO] 127.0.0.1 - - [25/May/2026 10:57:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:43,621 [INFO] 127.0.0.1 - - [25/May/2026 10:57:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:47,174 [WARNING] ALERT - Device 'device-123' is DOWN! Time: 2026-05-25T10:57:47.174083+00:00Z
+2026-05-25 10:57:47,176 [INFO] Retry scheduled for 'device-123' in 60 seconds.
+2026-05-25 10:57:48,612 [INFO] 127.0.0.1 - - [25/May/2026 10:57:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:53,618 [INFO] 127.0.0.1 - - [25/May/2026 10:57:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:57:58,621 [INFO] 127.0.0.1 - - [25/May/2026 10:57:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:03,616 [INFO] 127.0.0.1 - - [25/May/2026 10:58:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:08,620 [INFO] 127.0.0.1 - - [25/May/2026 10:58:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:13,609 [INFO] 127.0.0.1 - - [25/May/2026 10:58:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:18,723 [INFO] 127.0.0.1 - - [25/May/2026 10:58:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:23,724 [INFO] 127.0.0.1 - - [25/May/2026 10:58:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:28,609 [INFO] 127.0.0.1 - - [25/May/2026 10:58:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:33,613 [INFO] 127.0.0.1 - - [25/May/2026 10:58:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:38,618 [INFO] 127.0.0.1 - - [25/May/2026 10:58:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:43,609 [INFO] 127.0.0.1 - - [25/May/2026 10:58:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:47,176 [INFO] Retrying monitor for 'device-123'...
+2026-05-25 10:58:48,613 [INFO] 127.0.0.1 - - [25/May/2026 10:58:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:53,615 [INFO] 127.0.0.1 - - [25/May/2026 10:58:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:58:58,610 [INFO] 127.0.0.1 - - [25/May/2026 10:58:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:03,610 [INFO] 127.0.0.1 - - [25/May/2026 10:59:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:08,615 [INFO] 127.0.0.1 - - [25/May/2026 10:59:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:13,610 [INFO] 127.0.0.1 - - [25/May/2026 10:59:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:18,610 [INFO] 127.0.0.1 - - [25/May/2026 10:59:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:23,616 [INFO] 127.0.0.1 - - [25/May/2026 10:59:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:28,609 [INFO] 127.0.0.1 - - [25/May/2026 10:59:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:33,613 [INFO] 127.0.0.1 - - [25/May/2026 10:59:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:38,615 [INFO] 127.0.0.1 - - [25/May/2026 10:59:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:43,621 [INFO] 127.0.0.1 - - [25/May/2026 10:59:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:47,190 [WARNING] CRITICAL - Device 'device-123' failed twice. Permanently down. Time: 2026-05-25T10:59:47.190023+00:00Z
+2026-05-25 10:59:47,190 [WARNING] Manual restart required: POST /monitors/device-123/restart
+2026-05-25 10:59:48,610 [INFO] 127.0.0.1 - - [25/May/2026 10:59:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:53,618 [INFO] 127.0.0.1 - - [25/May/2026 10:59:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 10:59:58,613 [INFO] 127.0.0.1 - - [25/May/2026 10:59:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:03,609 [INFO] 127.0.0.1 - - [25/May/2026 11:00:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:08,618 [INFO] 127.0.0.1 - - [25/May/2026 11:00:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:13,730 [INFO] 127.0.0.1 - - [25/May/2026 11:00:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:18,718 [INFO] 127.0.0.1 - - [25/May/2026 11:00:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:23,721 [INFO] 127.0.0.1 - - [25/May/2026 11:00:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:28,732 [INFO] 127.0.0.1 - - [25/May/2026 11:00:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:33,720 [INFO] 127.0.0.1 - - [25/May/2026 11:00:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:38,722 [INFO] 127.0.0.1 - - [25/May/2026 11:00:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:43,727 [INFO] 127.0.0.1 - - [25/May/2026 11:00:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:48,717 [INFO] 127.0.0.1 - - [25/May/2026 11:00:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:53,723 [INFO] 127.0.0.1 - - [25/May/2026 11:00:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:00:58,731 [INFO] 127.0.0.1 - - [25/May/2026 11:00:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:01:03,739 [INFO] 127.0.0.1 - - [25/May/2026 11:01:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:01:08,717 [INFO] 127.0.0.1 - - [25/May/2026 11:01:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:02:03,727 [INFO] 127.0.0.1 - - [25/May/2026 11:02:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:03:03,731 [INFO] 127.0.0.1 - - [25/May/2026 11:03:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:04:03,730 [INFO] 127.0.0.1 - - [25/May/2026 11:04:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:04:28,570 [INFO] 127.0.0.1 - - [25/May/2026 11:04:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:04:33,626 [INFO] 127.0.0.1 - - [25/May/2026 11:04:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:04:38,723 [INFO] 127.0.0.1 - - [25/May/2026 11:04:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:04:43,722 [INFO] 127.0.0.1 - - [25/May/2026 11:04:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:04:48,731 [INFO] 127.0.0.1 - - [25/May/2026 11:04:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:04:53,718 [INFO] 127.0.0.1 - - [25/May/2026 11:04:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:04:58,723 [INFO] 127.0.0.1 - - [25/May/2026 11:04:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:05:03,738 [INFO] 127.0.0.1 - - [25/May/2026 11:05:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:05:08,719 [INFO] 127.0.0.1 - - [25/May/2026 11:05:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:05:13,724 [INFO] 127.0.0.1 - - [25/May/2026 11:05:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:05:18,726 [INFO] 127.0.0.1 - - [25/May/2026 11:05:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:05:23,717 [INFO] 127.0.0.1 - - [25/May/2026 11:05:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:05:28,722 [INFO] 127.0.0.1 - - [25/May/2026 11:05:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:05:33,727 [INFO] 127.0.0.1 - - [25/May/2026 11:05:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:06:03,737 [INFO] 127.0.0.1 - - [25/May/2026 11:06:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:07:03,730 [INFO] 127.0.0.1 - - [25/May/2026 11:07:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:08:03,732 [INFO] 127.0.0.1 - - [25/May/2026 11:08:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:09:03,726 [INFO] 127.0.0.1 - - [25/May/2026 11:09:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:10:03,735 [INFO] 127.0.0.1 - - [25/May/2026 11:10:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:11:03,740 [INFO] 127.0.0.1 - - [25/May/2026 11:11:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:12:03,744 [INFO] 127.0.0.1 - - [25/May/2026 11:12:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:13:03,728 [INFO] 127.0.0.1 - - [25/May/2026 11:13:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:14:03,741 [INFO] 127.0.0.1 - - [25/May/2026 11:14:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:15:03,735 [INFO] 127.0.0.1 - - [25/May/2026 11:15:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:16:03,735 [INFO] 127.0.0.1 - - [25/May/2026 11:16:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:17:03,740 [INFO] 127.0.0.1 - - [25/May/2026 11:17:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:18:03,737 [INFO] 127.0.0.1 - - [25/May/2026 11:18:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:19:03,737 [INFO] 127.0.0.1 - - [25/May/2026 11:19:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:20:03,731 [INFO] 127.0.0.1 - - [25/May/2026 11:20:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:21:03,735 [INFO] 127.0.0.1 - - [25/May/2026 11:21:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:22:03,743 [INFO] 127.0.0.1 - - [25/May/2026 11:22:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:23:03,739 [INFO] 127.0.0.1 - - [25/May/2026 11:23:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 11:24:03,727 [INFO] 127.0.0.1 - - [25/May/2026 11:24:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:07:51,474 [INFO] 127.0.0.1 - - [25/May/2026 12:07:51] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:07:55,112 [INFO] 127.0.0.1 - - [25/May/2026 12:07:55] "[33mGET /api/auth/get-session HTTP/1.1[0m" 404 -
+2026-05-25 12:07:59,093 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\__init__.py', reloading
+2026-05-25 12:07:59,262 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 12:08:00,346 [INFO] Pulse Check API starting up...
+2026-05-25 12:08:00,347 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 12:08:00,347 [INFO] Available endpoints:
+2026-05-25 12:08:00,347 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 12:08:00,348 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 12:08:00,348 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 12:08:00,348 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 12:08:00,348 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 12:08:00,349 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 12:08:00,508 [WARNING]  * Debugger is active!
+2026-05-25 12:08:00,513 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 12:08:00,632 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\werkzeug\\utils.py', reloading
+2026-05-25 12:08:00,727 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 12:08:01,251 [INFO] Pulse Check API starting up...
+2026-05-25 12:08:01,252 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 12:08:01,252 [INFO] Available endpoints:
+2026-05-25 12:08:01,253 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 12:08:01,253 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 12:08:01,253 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 12:08:01,253 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 12:08:01,254 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 12:08:01,254 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 12:08:01,294 [WARNING]  * Debugger is active!
+2026-05-25 12:08:01,298 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 12:08:03,733 [INFO] 127.0.0.1 - - [25/May/2026 12:08:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:08:05,970 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\IPython\\display.py', reloading
+2026-05-25 12:08:06,034 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 12:08:06,384 [INFO] Pulse Check API starting up...
+2026-05-25 12:08:06,384 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 12:08:06,384 [INFO] Available endpoints:
+2026-05-25 12:08:06,385 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 12:08:06,385 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 12:08:06,385 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 12:08:06,385 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 12:08:06,386 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 12:08:06,386 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 12:08:06,415 [WARNING]  * Debugger is active!
+2026-05-25 12:08:06,417 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 12:09:03,733 [INFO] 127.0.0.1 - - [25/May/2026 12:09:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:10:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:10:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:11:03,733 [INFO] 127.0.0.1 - - [25/May/2026 12:11:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:12:03,727 [INFO] 127.0.0.1 - - [25/May/2026 12:12:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:13:03,730 [INFO] 127.0.0.1 - - [25/May/2026 12:13:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:14:03,728 [INFO] 127.0.0.1 - - [25/May/2026 12:14:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:15:03,726 [INFO] 127.0.0.1 - - [25/May/2026 12:15:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:16:03,728 [INFO] 127.0.0.1 - - [25/May/2026 12:16:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:17:03,728 [INFO] 127.0.0.1 - - [25/May/2026 12:17:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:18:03,727 [INFO] 127.0.0.1 - - [25/May/2026 12:18:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:19:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:19:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:20:03,723 [INFO] 127.0.0.1 - - [25/May/2026 12:20:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:21:03,731 [INFO] 127.0.0.1 - - [25/May/2026 12:21:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:22:03,727 [INFO] 127.0.0.1 - - [25/May/2026 12:22:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:23:03,742 [INFO] 127.0.0.1 - - [25/May/2026 12:23:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:24:03,728 [INFO] 127.0.0.1 - - [25/May/2026 12:24:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:25:03,727 [INFO] 127.0.0.1 - - [25/May/2026 12:25:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:26:03,729 [INFO] 127.0.0.1 - - [25/May/2026 12:26:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:27:03,723 [INFO] 127.0.0.1 - - [25/May/2026 12:27:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:28:03,729 [INFO] 127.0.0.1 - - [25/May/2026 12:28:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:29:03,718 [INFO] 127.0.0.1 - - [25/May/2026 12:29:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:30:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:30:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:31:03,736 [INFO] 127.0.0.1 - - [25/May/2026 12:31:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:32:03,737 [INFO] 127.0.0.1 - - [25/May/2026 12:32:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:33:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:33:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:34:03,737 [INFO] 127.0.0.1 - - [25/May/2026 12:34:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:35:03,737 [INFO] 127.0.0.1 - - [25/May/2026 12:35:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:36:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:36:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:37:03,733 [INFO] 127.0.0.1 - - [25/May/2026 12:37:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:38:03,744 [INFO] 127.0.0.1 - - [25/May/2026 12:38:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:39:03,737 [INFO] 127.0.0.1 - - [25/May/2026 12:39:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:40:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:40:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:41:03,730 [INFO] 127.0.0.1 - - [25/May/2026 12:41:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:42:03,734 [INFO] 127.0.0.1 - - [25/May/2026 12:42:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:43:03,731 [INFO] 127.0.0.1 - - [25/May/2026 12:43:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:44:03,729 [INFO] 127.0.0.1 - - [25/May/2026 12:44:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:45:03,741 [INFO] 127.0.0.1 - - [25/May/2026 12:45:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:46:03,727 [INFO] 127.0.0.1 - - [25/May/2026 12:46:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:47:03,728 [INFO] 127.0.0.1 - - [25/May/2026 12:47:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:48:03,734 [INFO] 127.0.0.1 - - [25/May/2026 12:48:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:49:03,731 [INFO] 127.0.0.1 - - [25/May/2026 12:49:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:50:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:50:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:51:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:51:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:52:03,729 [INFO] 127.0.0.1 - - [25/May/2026 12:52:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:53:03,732 [INFO] 127.0.0.1 - - [25/May/2026 12:53:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:54:03,729 [INFO] 127.0.0.1 - - [25/May/2026 12:54:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:55:03,723 [INFO] 127.0.0.1 - - [25/May/2026 12:55:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:56:03,730 [INFO] 127.0.0.1 - - [25/May/2026 12:56:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:57:03,725 [INFO] 127.0.0.1 - - [25/May/2026 12:57:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:58:03,734 [INFO] 127.0.0.1 - - [25/May/2026 12:58:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 12:59:03,726 [INFO] 127.0.0.1 - - [25/May/2026 12:59:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:00:03,732 [INFO] 127.0.0.1 - - [25/May/2026 13:00:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:01:03,729 [INFO] 127.0.0.1 - - [25/May/2026 13:01:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:02:03,751 [INFO] 127.0.0.1 - - [25/May/2026 13:02:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:03:03,728 [INFO] 127.0.0.1 - - [25/May/2026 13:03:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:04:03,725 [INFO] 127.0.0.1 - - [25/May/2026 13:04:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:05:03,734 [INFO] 127.0.0.1 - - [25/May/2026 13:05:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:06:03,718 [INFO] 127.0.0.1 - - [25/May/2026 13:06:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:07:03,721 [INFO] 127.0.0.1 - - [25/May/2026 13:07:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:08:03,737 [INFO] 127.0.0.1 - - [25/May/2026 13:08:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:09:03,736 [INFO] 127.0.0.1 - - [25/May/2026 13:09:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:10:03,746 [INFO] 127.0.0.1 - - [25/May/2026 13:10:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:10:03,874 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\IPython\\display.py', reloading
+2026-05-25 13:10:03,978 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 13:10:04,622 [INFO] Pulse Check API starting up...
+2026-05-25 13:10:04,623 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 13:10:04,623 [INFO] Available endpoints:
+2026-05-25 13:10:04,623 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 13:10:04,624 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 13:10:04,624 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 13:10:04,624 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 13:10:04,624 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 13:10:04,624 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 13:10:04,789 [WARNING]  * Debugger is active!
+2026-05-25 13:10:04,792 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 13:10:10,330 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\__init__.py', reloading
+2026-05-25 13:10:10,400 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 13:10:10,701 [INFO] Pulse Check API starting up...
+2026-05-25 13:10:10,702 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 13:10:10,702 [INFO] Available endpoints:
+2026-05-25 13:10:10,702 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 13:10:10,702 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 13:10:10,702 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 13:10:10,703 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 13:10:10,703 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 13:10:10,703 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 13:10:10,732 [WARNING]  * Debugger is active!
+2026-05-25 13:10:10,736 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 13:10:10,766 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\json\\__init__.py', reloading
+2026-05-25 13:10:10,819 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 13:10:11,143 [INFO] Pulse Check API starting up...
+2026-05-25 13:10:11,144 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 13:10:11,144 [INFO] Available endpoints:
+2026-05-25 13:10:11,144 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 13:10:11,144 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 13:10:11,144 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 13:10:11,144 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 13:10:11,145 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 13:10:11,145 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 13:10:11,172 [WARNING]  * Debugger is active!
+2026-05-25 13:10:11,176 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 13:10:11,309 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\flask\\typing.py', reloading
+2026-05-25 13:10:11,357 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 13:10:11,644 [INFO] Pulse Check API starting up...
+2026-05-25 13:10:11,644 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 13:10:11,644 [INFO] Available endpoints:
+2026-05-25 13:10:11,644 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 13:10:11,644 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 13:10:11,645 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 13:10:11,645 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 13:10:11,645 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 13:10:11,645 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 13:10:11,679 [WARNING]  * Debugger is active!
+2026-05-25 13:10:11,682 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 13:11:03,735 [INFO] 127.0.0.1 - - [25/May/2026 13:11:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:12:03,733 [INFO] 127.0.0.1 - - [25/May/2026 13:12:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:13:03,729 [INFO] 127.0.0.1 - - [25/May/2026 13:13:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:14:03,743 [INFO] 127.0.0.1 - - [25/May/2026 13:14:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:15:03,741 [INFO] 127.0.0.1 - - [25/May/2026 13:15:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:16:03,735 [INFO] 127.0.0.1 - - [25/May/2026 13:16:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:17:03,741 [INFO] 127.0.0.1 - - [25/May/2026 13:17:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:18:03,741 [INFO] 127.0.0.1 - - [25/May/2026 13:18:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:19:03,741 [INFO] 127.0.0.1 - - [25/May/2026 13:19:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:20:03,771 [INFO] 127.0.0.1 - - [25/May/2026 13:20:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:21:03,733 [INFO] 127.0.0.1 - - [25/May/2026 13:21:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:22:03,727 [INFO] 127.0.0.1 - - [25/May/2026 13:22:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:23:03,731 [INFO] 127.0.0.1 - - [25/May/2026 13:23:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:24:03,732 [INFO] 127.0.0.1 - - [25/May/2026 13:24:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:25:03,728 [INFO] 127.0.0.1 - - [25/May/2026 13:25:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:26:03,729 [INFO] 127.0.0.1 - - [25/May/2026 13:26:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:27:03,737 [INFO] 127.0.0.1 - - [25/May/2026 13:27:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:28:03,737 [INFO] 127.0.0.1 - - [25/May/2026 13:28:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:29:03,724 [INFO] 127.0.0.1 - - [25/May/2026 13:29:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:30:03,724 [INFO] 127.0.0.1 - - [25/May/2026 13:30:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:31:03,730 [INFO] 127.0.0.1 - - [25/May/2026 13:31:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:32:03,732 [INFO] 127.0.0.1 - - [25/May/2026 13:32:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:33:03,724 [INFO] 127.0.0.1 - - [25/May/2026 13:33:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:34:03,725 [INFO] 127.0.0.1 - - [25/May/2026 13:34:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:34:54,017 [INFO] 127.0.0.1 - - [25/May/2026 13:34:54] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:34:58,614 [INFO] 127.0.0.1 - - [25/May/2026 13:34:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:03,614 [INFO] 127.0.0.1 - - [25/May/2026 13:35:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:08,624 [INFO] 127.0.0.1 - - [25/May/2026 13:35:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:13,613 [INFO] 127.0.0.1 - - [25/May/2026 13:35:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:18,622 [INFO] 127.0.0.1 - - [25/May/2026 13:35:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:23,622 [INFO] 127.0.0.1 - - [25/May/2026 13:35:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:28,611 [INFO] 127.0.0.1 - - [25/May/2026 13:35:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:33,620 [INFO] 127.0.0.1 - - [25/May/2026 13:35:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:38,625 [INFO] 127.0.0.1 - - [25/May/2026 13:35:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:43,615 [INFO] 127.0.0.1 - - [25/May/2026 13:35:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:48,621 [INFO] 127.0.0.1 - - [25/May/2026 13:35:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:53,624 [INFO] 127.0.0.1 - - [25/May/2026 13:35:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:56,303 [INFO] Monitor created for 'PM-01' | Timeout: 60 seconds | Email: carlcrankson966@gmail.com
+2026-05-25 13:35:56,304 [INFO] 127.0.0.1 - - [25/May/2026 13:35:56] "[35m[1mPOST /monitors HTTP/1.1[0m" 201 -
+2026-05-25 13:35:56,310 [INFO] 127.0.0.1 - - [25/May/2026 13:35:56] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:35:58,611 [INFO] 127.0.0.1 - - [25/May/2026 13:35:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:02,300 [INFO] Monitor 'PM-01' paused.
+2026-05-25 13:36:02,302 [INFO] 127.0.0.1 - - [25/May/2026 13:36:02] "POST /monitors/PM-01/pause HTTP/1.1" 200 -
+2026-05-25 13:36:02,309 [INFO] 127.0.0.1 - - [25/May/2026 13:36:02] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:03,617 [INFO] 127.0.0.1 - - [25/May/2026 13:36:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:08,620 [INFO] 127.0.0.1 - - [25/May/2026 13:36:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:13,738 [INFO] 127.0.0.1 - - [25/May/2026 13:36:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:18,722 [INFO] 127.0.0.1 - - [25/May/2026 13:36:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:23,730 [INFO] 127.0.0.1 - - [25/May/2026 13:36:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:28,733 [INFO] 127.0.0.1 - - [25/May/2026 13:36:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:33,717 [INFO] 127.0.0.1 - - [25/May/2026 13:36:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:38,721 [INFO] 127.0.0.1 - - [25/May/2026 13:36:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:43,729 [INFO] 127.0.0.1 - - [25/May/2026 13:36:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:48,723 [INFO] 127.0.0.1 - - [25/May/2026 13:36:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:53,724 [INFO] 127.0.0.1 - - [25/May/2026 13:36:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:36:58,727 [INFO] 127.0.0.1 - - [25/May/2026 13:36:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:37:03,730 [INFO] 127.0.0.1 - - [25/May/2026 13:37:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:37:08,728 [INFO] 127.0.0.1 - - [25/May/2026 13:37:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:38:03,726 [INFO] 127.0.0.1 - - [25/May/2026 13:38:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:39:03,718 [INFO] 127.0.0.1 - - [25/May/2026 13:39:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:40:03,730 [INFO] 127.0.0.1 - - [25/May/2026 13:40:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:41:03,723 [INFO] 127.0.0.1 - - [25/May/2026 13:41:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:42:03,725 [INFO] 127.0.0.1 - - [25/May/2026 13:42:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:43:03,725 [INFO] 127.0.0.1 - - [25/May/2026 13:43:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:44:03,723 [INFO] 127.0.0.1 - - [25/May/2026 13:44:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:45:03,738 [INFO] 127.0.0.1 - - [25/May/2026 13:45:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:46:03,735 [INFO] 127.0.0.1 - - [25/May/2026 13:46:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:47:03,720 [INFO] 127.0.0.1 - - [25/May/2026 13:47:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:48:03,739 [INFO] 127.0.0.1 - - [25/May/2026 13:48:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:49:03,723 [INFO] 127.0.0.1 - - [25/May/2026 13:49:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:50:03,725 [INFO] 127.0.0.1 - - [25/May/2026 13:50:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:51:03,738 [INFO] 127.0.0.1 - - [25/May/2026 13:51:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:52:03,725 [INFO] 127.0.0.1 - - [25/May/2026 13:52:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:53:03,738 [INFO] 127.0.0.1 - - [25/May/2026 13:53:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:54:03,721 [INFO] 127.0.0.1 - - [25/May/2026 13:54:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:55:03,738 [INFO] 127.0.0.1 - - [25/May/2026 13:55:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:56:03,741 [INFO] 127.0.0.1 - - [25/May/2026 13:56:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:57:03,731 [INFO] 127.0.0.1 - - [25/May/2026 13:57:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:58:03,738 [INFO] 127.0.0.1 - - [25/May/2026 13:58:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 13:59:03,737 [INFO] 127.0.0.1 - - [25/May/2026 13:59:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:00:03,731 [INFO] 127.0.0.1 - - [25/May/2026 14:00:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:01:03,733 [INFO] 127.0.0.1 - - [25/May/2026 14:01:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:02:03,740 [INFO] 127.0.0.1 - - [25/May/2026 14:02:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:03:03,735 [INFO] 127.0.0.1 - - [25/May/2026 14:03:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:04:03,733 [INFO] 127.0.0.1 - - [25/May/2026 14:04:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:05:03,789 [INFO] 127.0.0.1 - - [25/May/2026 14:05:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:06:03,724 [INFO] 127.0.0.1 - - [25/May/2026 14:06:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:07:03,732 [INFO] 127.0.0.1 - - [25/May/2026 14:07:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:08:03,724 [INFO] 127.0.0.1 - - [25/May/2026 14:08:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:09:03,727 [INFO] 127.0.0.1 - - [25/May/2026 14:09:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:10:03,729 [INFO] 127.0.0.1 - - [25/May/2026 14:10:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:11:03,719 [INFO] 127.0.0.1 - - [25/May/2026 14:11:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:12:03,723 [INFO] 127.0.0.1 - - [25/May/2026 14:12:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:13:03,726 [INFO] 127.0.0.1 - - [25/May/2026 14:13:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:14:03,721 [INFO] 127.0.0.1 - - [25/May/2026 14:14:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:15:03,722 [INFO] 127.0.0.1 - - [25/May/2026 14:15:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:16:03,724 [INFO] 127.0.0.1 - - [25/May/2026 14:16:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:16:48,974 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\IPython\\display.py', reloading
+2026-05-25 14:16:49,066 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 14:16:49,822 [INFO] Pulse Check API starting up...
+2026-05-25 14:16:49,823 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 14:16:49,823 [INFO] Available endpoints:
+2026-05-25 14:16:49,823 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 14:16:49,823 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 14:16:49,823 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 14:16:49,823 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 14:16:49,823 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 14:16:49,823 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 14:16:49,941 [WARNING]  * Debugger is active!
+2026-05-25 14:16:49,944 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 14:17:03,720 [INFO] 127.0.0.1 - - [25/May/2026 14:17:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:18:03,732 [INFO] 127.0.0.1 - - [25/May/2026 14:18:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:19:03,720 [INFO] 127.0.0.1 - - [25/May/2026 14:19:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:20:03,723 [INFO] 127.0.0.1 - - [25/May/2026 14:20:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:21:03,720 [INFO] 127.0.0.1 - - [25/May/2026 14:21:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:22:03,735 [INFO] 127.0.0.1 - - [25/May/2026 14:22:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:23:03,741 [INFO] 127.0.0.1 - - [25/May/2026 14:23:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:24:03,740 [INFO] 127.0.0.1 - - [25/May/2026 14:24:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:25:03,736 [INFO] 127.0.0.1 - - [25/May/2026 14:25:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:26:03,735 [INFO] 127.0.0.1 - - [25/May/2026 14:26:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:27:03,735 [INFO] 127.0.0.1 - - [25/May/2026 14:27:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:03,738 [INFO] 127.0.0.1 - - [25/May/2026 14:28:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:26,131 [INFO] 127.0.0.1 - - [25/May/2026 14:28:26] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:28,719 [INFO] 127.0.0.1 - - [25/May/2026 14:28:28] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:33,768 [INFO] 127.0.0.1 - - [25/May/2026 14:28:33] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:38,739 [INFO] 127.0.0.1 - - [25/May/2026 14:28:38] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:43,727 [INFO] 127.0.0.1 - - [25/May/2026 14:28:43] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:48,733 [INFO] 127.0.0.1 - - [25/May/2026 14:28:48] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:53,719 [INFO] 127.0.0.1 - - [25/May/2026 14:28:53] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:28:58,725 [INFO] 127.0.0.1 - - [25/May/2026 14:28:58] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:29:03,736 [INFO] 127.0.0.1 - - [25/May/2026 14:29:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:29:08,721 [INFO] 127.0.0.1 - - [25/May/2026 14:29:08] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:29:13,719 [INFO] 127.0.0.1 - - [25/May/2026 14:29:13] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:29:14,485 [INFO]  * Detected change in 'C:\\Users\\CarlNyameakyereCrank\\AppData\\Roaming\\Python\\Python314\\site-packages\\airflow\\api_fastapi\\execution_api\\routes\\task_instances.py', reloading
+2026-05-25 14:29:14,560 [INFO]  * Restarting with watchdog (windowsapi)
+2026-05-25 14:29:14,927 [INFO] Pulse Check API starting up...
+2026-05-25 14:29:14,927 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 14:29:14,927 [INFO] Available endpoints:
+2026-05-25 14:29:14,927 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 14:29:14,928 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 14:29:14,928 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 14:29:14,928 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 14:29:14,928 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 14:29:14,928 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 14:29:14,956 [WARNING]  * Debugger is active!
+2026-05-25 14:29:14,959 [INFO]  * Debugger PIN: 140-329-607
+2026-05-25 14:29:18,730 [INFO] 127.0.0.1 - - [25/May/2026 14:29:18] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:29:23,726 [INFO] 127.0.0.1 - - [25/May/2026 14:29:23] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:30:03,741 [INFO] 127.0.0.1 - - [25/May/2026 14:30:03] "GET /monitors HTTP/1.1" 200 -
+2026-05-25 14:57:45,059 [INFO] Pulse Check API starting up...
+2026-05-25 14:57:45,062 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 14:57:45,063 [INFO] Available endpoints:
+2026-05-25 14:57:45,063 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 14:57:45,064 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 14:57:45,064 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 14:57:45,064 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 14:57:45,064 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 14:57:45,065 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 14:57:45,162 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-25 14:57:45,162 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-25 14:57:45,164 [INFO]  * Restarting with stat
+2026-05-25 14:57:46,062 [INFO] Pulse Check API starting up...
+2026-05-25 14:57:46,064 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 14:57:46,064 [INFO] Available endpoints:
+2026-05-25 14:57:46,064 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 14:57:46,065 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 14:57:46,065 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 14:57:46,065 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 14:57:46,065 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 14:57:46,066 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 14:57:46,118 [WARNING]  * Debugger is active!
+2026-05-25 14:57:46,128 [INFO]  * Debugger PIN: 135-147-332
+2026-05-25 15:01:26,397 [INFO] 127.0.0.1 - - [25/May/2026 15:01:26] "[33mGET /monitors/ HTTP/1.1[0m" 404 -
+2026-05-25 15:01:26,550 [INFO] 127.0.0.1 - - [25/May/2026 15:01:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-25 15:02:01,671 [INFO]  * Detected change in 'C:\\Users\\awoof\\OneDrive\\Desktop\\Pulse-Check-API\\app.py', reloading
+2026-05-25 15:02:01,725 [INFO]  * Restarting with stat
+2026-05-25 15:02:03,145 [INFO] Pulse Check API starting up...
+2026-05-25 15:02:03,145 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 15:02:03,145 [INFO] Available endpoints:
+2026-05-25 15:02:03,146 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 15:02:03,146 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 15:02:03,146 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 15:02:03,147 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 15:02:03,147 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 15:02:03,147 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 15:02:03,441 [WARNING]  * Debugger is active!
+2026-05-25 15:02:03,482 [INFO]  * Debugger PIN: 135-147-332
+2026-05-25 15:02:08,802 [INFO]  * Detected change in 'C:\\Users\\awoof\\OneDrive\\Desktop\\Pulse-Check-API\\app.py', reloading
+2026-05-25 15:02:08,848 [INFO]  * Restarting with stat
+2026-05-25 15:02:09,758 [INFO] Pulse Check API starting up...
+2026-05-25 15:02:09,759 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 15:02:09,759 [INFO] Available endpoints:
+2026-05-25 15:02:09,759 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 15:02:09,759 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 15:02:09,760 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 15:02:09,760 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 15:02:09,760 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 15:02:09,760 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 15:02:09,822 [WARNING]  * Debugger is active!
+2026-05-25 15:02:09,835 [INFO]  * Debugger PIN: 135-147-332
+2026-05-25 15:05:37,898 [INFO] Pulse Check API starting up...
+2026-05-25 15:05:37,898 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 15:05:37,899 [INFO] Available endpoints:
+2026-05-25 15:05:37,899 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 15:05:37,899 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 15:05:37,899 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 15:05:37,900 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 15:05:37,900 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 15:05:37,900 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 15:05:37,992 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-25 15:05:37,992 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-25 15:05:37,995 [INFO]  * Restarting with stat
+2026-05-25 15:05:38,855 [INFO] Pulse Check API starting up...
+2026-05-25 15:05:38,855 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 15:05:38,856 [INFO] Available endpoints:
+2026-05-25 15:05:38,856 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 15:05:38,857 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 15:05:38,857 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 15:05:38,857 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 15:05:38,858 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 15:05:38,858 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 15:05:38,915 [WARNING]  * Debugger is active!
+2026-05-25 15:05:38,926 [INFO]  * Debugger PIN: 135-147-332
+2026-05-25 15:21:46,760 [INFO] Pulse Check API starting up...
+2026-05-25 15:21:46,761 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 15:21:46,761 [INFO] Available endpoints:
+2026-05-25 15:21:46,761 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 15:21:46,761 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 15:21:46,762 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 15:21:46,762 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 15:21:46,762 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 15:21:46,763 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 15:21:46,846 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-25 15:21:46,846 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-25 15:21:46,849 [INFO]  * Restarting with stat
+2026-05-25 15:21:47,737 [INFO] Pulse Check API starting up...
+2026-05-25 15:21:47,738 [INFO] Dashboard: http://127.0.0.1:5000
+2026-05-25 15:21:47,738 [INFO] Available endpoints:
+2026-05-25 15:21:47,738 [INFO]   POST  http://127.0.0.1:5000/monitors
+2026-05-25 15:21:47,738 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/heartbeat
+2026-05-25 15:21:47,739 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/pause
+2026-05-25 15:21:47,739 [INFO]   POST  http://127.0.0.1:5000/monitors/<id>/restart
+2026-05-25 15:21:47,739 [INFO]   GET   http://127.0.0.1:5000/monitors
+2026-05-25 15:21:47,740 [INFO]   GET   http://127.0.0.1:5000/monitors/<id>
+2026-05-25 15:21:47,875 [WARNING]  * Debugger is active!
+2026-05-25 15:21:47,885 [INFO]  * Debugger PIN: 135-147-332

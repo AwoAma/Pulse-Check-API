@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pulse Check Dashboard</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      min-height: 100vh;
+    }
+
+    header {
+      padding: 20px 32px;
+      border-bottom: 1px solid #1e293b;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    header h1 { font-size: 18px; font-weight: 700; letter-spacing: -0.02em; }
+    header h1 span { color: #3b82f6; }
+    .refresh-badge {
+      font-size: 12px; color: #475569;
+      background: #1e293b; padding: 4px 10px; border-radius: 999px;
+    }
+
+    main { padding: 32px; max-width: 1100px; margin: 0 auto; }
+
+    .card { background: #1e293b; border-radius: 10px; padding: 24px; margin-bottom: 28px; }
+    .card-title {
+      font-size: 11px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.08em; color: #64748b; margin-bottom: 18px;
+    }
+
+    .form-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-end; }
+    .field { display: flex; flex-direction: column; gap: 5px; flex: 1; min-width: 120px; }
+    .field label { font-size: 11px; color: #64748b; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+    input, select {
+      background: #0f172a; border: 1px solid #334155; border-radius: 6px;
+      padding: 8px 12px; color: #e2e8f0; font-size: 14px; width: 100%;
+    }
+    input:focus, select:focus { outline: none; border-color: #3b82f6; }
+    input::placeholder { color: #334155; }
+
+    .btn {
+      padding: 8px 16px; border-radius: 6px; border: none;
+      font-size: 13px; font-weight: 600; cursor: pointer;
+      transition: opacity 0.15s; white-space: nowrap;
+    }
+    .btn:hover { opacity: 0.8; }
+    .btn-primary { background: #3b82f6; color: #fff; }
+    .btn-green   { background: #16a34a; color: #fff; }
+    .btn-yellow  { background: #d97706; color: #fff; }
+    .btn-purple  { background: #7c3aed; color: #fff; }
+    .btn-red     { background: #dc2626; color: #fff; }
+    .btn-sm { padding: 5px 10px; font-size: 12px; }
+
+    table { width: 100%; border-collapse: collapse; }
+    thead th {
+      text-align: left; padding: 8px 14px;
+      font-size: 11px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.06em; color: #475569; border-bottom: 1px solid #334155;
+    }
+    tbody td {
+      padding: 14px; font-size: 14px;
+      border-bottom: 1px solid #0f172a; vertical-align: middle;
+    }
+    tbody tr:last-child td { border-bottom: none; }
+    tbody tr:hover { background: #263348; }
+
+    .badge {
+      display: inline-block; padding: 3px 10px; border-radius: 999px;
+      font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;
+    }
+    .badge-active   { background: #14532d; color: #4ade80; }
+    .badge-down     { background: #7f1d1d; color: #f87171; }
+    .badge-paused   { background: #78350f; color: #fbbf24; }
+    .badge-critical { background: #581c87; color: #e879f9; }
+
+    .countdown {
+      font-size: 13px; font-weight: 600; font-variant-numeric: tabular-nums;
+    }
+    .countdown-bar {
+      height: 4px; border-radius: 999px; background: #0f172a;
+      width: 90px; margin-top: 5px; overflow: hidden;
+    }
+    .countdown-bar-fill { height: 4px; border-radius: 999px; transition: width 1s linear; }
+
+    .actions { display: flex; gap: 6px; flex-wrap: wrap; }
+
+    /* Simulation panel */
+    .sim-panel {
+      background: #0f172a; border: 1px solid #334155;
+      border-radius: 8px; padding: 16px; margin-top: 12px;
+    }
+    .sim-panel-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em; color: #7c3aed; margin-bottom: 12px; }
+    .sim-log {
+      font-family: 'Courier New', monospace; font-size: 12px; color: #94a3b8;
+      max-height: 140px; overflow-y: auto; display: flex; flex-direction: column; gap: 3px;
+    }
+    .sim-log .log-ok   { color: #4ade80; }
+    .sim-log .log-warn { color: #fbbf24; }
+    .sim-log .log-info { color: #94a3b8; }
+
+    .empty { text-align: center; padding: 40px; color: #334155; font-size: 14px; }
+
+    #toast {
+      position: fixed; bottom: 24px; right: 24px;
+      padding: 12px 18px; border-radius: 8px; font-size: 13px; font-weight: 500;
+      background: #1e293b; border: 1px solid #334155;
+      display: none; z-index: 999; max-width: 320px;
+    }
+    #toast.success { border-color: #16a34a; color: #4ade80; }
+    #toast.error   { border-color: #dc2626; color: #f87171; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Pulse <span>Check</span></h1>
+    <span class="refresh-badge">Auto-refresh: 5s</span>
+  </header>
+
+  <main>
+
+    <!-- Register form -->
+    <div class="card">
+      <div class="card-title">Register a Monitor</div>
+      <form id="register-form">
+        <div class="form-row">
+          <div class="field">
+            <label>Device ID</label>
+            <input name="device_id" placeholder="e.g. server-01" required />
+          </div>
+          <div class="field" style="max-width:90px">
+            <label>Timeout</label>
+            <input name="timeout" type="number" min="1" placeholder="30" required />
+          </div>
+          <div class="field" style="max-width:120px">
+            <label>Unit</label>
+            <select name="timeout_unit">
+              <option value="seconds">Seconds</option>
+              <option value="minutes">Minutes</option>
+              <option value="hours">Hours</option>
+              <option value="days">Days</option>
+              <option value="weeks">Weeks</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>Alert Email (optional)</label>
+            <input name="alert_email" type="email" placeholder="ops@example.com" />
+          </div>
+          <div class="field" style="flex:0">
+            <label style="visibility:hidden">.</label>
+            <button type="submit" class="btn btn-primary">Register</button>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <!-- Monitors table -->
+    <div class="card">
+      <div class="card-title">Monitors <span id="count" style="color:#3b82f6"></span></div>
+      <table>
+        <thead>
+          <tr>
+            <th>Device ID</th>
+            <th>Status</th>
+            <th>Countdown</th>
+            <th>Timeout</th>
+            <th>Alert Email</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+          <tr><td colspan="6" class="empty">No monitors yet. Register one above.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Simulation panel -->
+    <div class="card" id="sim-card" style="display:none">
+      <div class="card-title">Live Simulation</div>
+      <div class="sim-panel">
+        <div class="sim-panel-title">Activity Log</div>
+        <div class="sim-log" id="sim-log"></div>
+      </div>
+    </div>
+
+  </main>
+
+  <div id="toast"></div>
+
+  <script>
+    let monitorsData = [];
+    let simulations  = {}; // { deviceId: intervalId }
+
+    // ── Toast ──────────────────────────────────────────────
+    function toast(msg, type = 'success') {
+      const el = document.getElementById('toast');
+      el.textContent = msg;
+      el.className = type;
+      el.style.display = 'block';
+      clearTimeout(el._t);
+      el._t = setTimeout(() => el.style.display = 'none', 3000);
+    }
+
+    // ── Sim log ────────────────────────────────────────────
+    function simLog(msg, type = 'info') {
+      document.getElementById('sim-card').style.display = '';
+      const log = document.getElementById('sim-log');
+      const now = new Date().toLocaleTimeString();
+      const line = document.createElement('div');
+      line.className = `log-${type}`;
+      line.textContent = `[${now}] ${msg}`;
+      log.appendChild(line);
+      log.scrollTop = log.scrollHeight;
+    }
+
+    // ── Countdown helpers ──────────────────────────────────
+    function formatTime(s) {
+      if (s <= 0) return 'Overdue';
+      if (s < 60)   return `${Math.floor(s)}s`;
+      if (s < 3600) return `${Math.floor(s / 60)}m ${Math.floor(s % 60)}s`;
+      return `${Math.floor(s / 3600)}h ${Math.floor((s % 3600) / 60)}m`;
+    }
+
+    function barColor(pct) {
+      if (pct > 50) return '#16a34a';
+      if (pct > 20) return '#d97706';
+      return '#dc2626';
+    }
+
+    function updateCountdowns() {
+      const now = Date.now() / 1000;
+      monitorsData.forEach(m => {
+        const cdEl  = document.getElementById(`cd-${m.id}`);
+        const barEl = document.getElementById(`bar-${m.id}`);
+        if (!cdEl) return;
+
+        if (m.status !== 'active' || !m.last_heartbeat) {
+          cdEl.textContent = m.status === 'paused' ? 'Paused' : '—';
+          if (barEl) barEl.style.width = '0%';
+          return;
+        }
+
+        const elapsed   = now - m.last_heartbeat;
+        const remaining = m.timeout_seconds - elapsed;
+        const pct       = Math.max(0, Math.min(100, (remaining / m.timeout_seconds) * 100));
+
+        cdEl.textContent = formatTime(remaining);
+        cdEl.style.color = barColor(pct);
+        if (barEl) {
+          barEl.style.width      = `${pct}%`;
+          barEl.style.background = barColor(pct);
+        }
+      });
+    }
+
+    // ── Render table ───────────────────────────────────────
+    function renderTable() {
+      const tbody = document.getElementById('tbody');
+      document.getElementById('count').textContent = `(${monitorsData.length})`;
+
+      if (monitorsData.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="6" class="empty">No monitors yet. Register one above.</td></tr>';
+        return;
+      }
+
+      tbody.innerHTML = monitorsData.map(m => {
+        const isRunning = !!simulations[m.id];
+        return `
+          <tr>
+            <td><strong>${m.id}</strong></td>
+            <td><span class="badge badge-${m.status}">${m.status}</span></td>
+            <td>
+              <span class="countdown" id="cd-${m.id}">—</span>
+              <div class="countdown-bar">
+                <div class="countdown-bar-fill" id="bar-${m.id}" style="width:100%"></div>
+              </div>
+            </td>
+            <td>${m.timeout}</td>
+            <td>${m.alert_email || '<span style="color:#334155">—</span>'}</td>
+            <td>
+              <div class="actions">
+                ${m.status === 'critical'
+                  ? `<button class="btn btn-purple btn-sm" onclick="restartMonitor('${m.id}')">Restart</button>`
+                  : `
+                    <button class="btn btn-green btn-sm"  onclick="sendHeartbeat('${m.id}')">Heartbeat</button>
+                    <button class="btn btn-yellow btn-sm" onclick="togglePause('${m.id}', '${m.status}')">
+                      ${m.status === 'paused' ? 'Resume' : 'Pause'}
+                    </button>
+                    <button class="btn ${isRunning ? 'btn-red' : 'btn-purple'} btn-sm"
+                            onclick="toggleSim('${m.id}', ${m.timeout_seconds})">
+                      ${isRunning ? 'Stop Sim' : 'Simulate'}
+                    </button>
+                  `
+                }
+              </div>
+            </td>
+          </tr>
+        `;
+      }).join('');
+
+      updateCountdowns();
+    }
+
+    // ── Load monitors ──────────────────────────────────────
+    async function loadMonitors() {
+      try {
+        const res  = await fetch('/monitors');
+        const data = await res.json();
+        monitorsData = data.monitors;
+
+        // Stop simulation for any monitor that has gone critical
+        monitorsData.forEach(m => {
+          if (m.status === 'critical' && simulations[m.id]) {
+            clearInterval(simulations[m.id]);
+            delete simulations[m.id];
+            simLog(`'${m.id}' is CRITICAL — simulation stopped. Manual restart required.`, 'warn');
+          }
+        });
+
+        renderTable();
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    // ── Restart (critical only) ────────────────────────────
+    async function restartMonitor(id) {
+      const res  = await fetch(`/monitors/${id}/restart`, { method: 'POST' });
+      const data = await res.json();
+      toast(res.ok ? data.message : data.error, res.ok ? 'success' : 'error');
+      if (res.ok) simLog(`Monitor '${id}' manually restarted. Watching for heartbeats.`, 'ok');
+      loadMonitors();
+    }
+
+    // ── Register ───────────────────────────────────────────
+    document.getElementById('register-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fd   = new FormData(e.target);
+      const body = {
+        id:           fd.get('device_id'),
+        timeout:      parseInt(fd.get('timeout')),
+        timeout_unit: fd.get('timeout_unit'),
+        alert_email:  fd.get('alert_email')
+      };
+      const res  = await fetch('/monitors', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+      const data = await res.json();
+      if (res.ok) {
+        toast(`Monitor '${body.id}' registered.`);
+        e.target.reset();
+        loadMonitors();
+      } else {
+        toast(data.error, 'error');
+      }
+    });
+
+    // ── Heartbeat ──────────────────────────────────────────
+    async function sendHeartbeat(id, silent = false) {
+      const res  = await fetch(`/monitors/${id}/heartbeat`, { method: 'POST' });
+      const data = await res.json();
+      if (!silent) toast(res.ok ? `Heartbeat sent for '${id}'.` : data.error, res.ok ? 'success' : 'error');
+      if (res.ok) {
+        // Optimistically update last_heartbeat so countdown resets immediately
+        const m = monitorsData.find(x => x.id === id);
+        if (m) { m.last_heartbeat = Date.now() / 1000; m.status = 'active'; }
+        updateCountdowns();
+      }
+      loadMonitors();
+    }
+
+    // ── Pause / Resume ─────────────────────────────────────
+    async function togglePause(id, currentStatus) {
+      if (currentStatus === 'paused') {
+        // Resume via heartbeat
+        await sendHeartbeat(id);
+        toast(`Monitor '${id}' resumed.`);
+      } else {
+        const res  = await fetch(`/monitors/${id}/pause`, { method: 'POST' });
+        const data = await res.json();
+        toast(res.ok ? data.message : data.error, res.ok ? 'success' : 'error');
+        loadMonitors();
+      }
+    }
+
+    // ── Simulation ─────────────────────────────────────────
+    function toggleSim(id, timeoutSeconds) {
+      if (simulations[id]) {
+        clearInterval(simulations[id]);
+        delete simulations[id];
+        simLog(`Simulation stopped for '${id}'. Device will go DOWN in ~${timeoutSeconds}s if no heartbeat is sent.`, 'warn');
+        toast(`Simulation stopped for '${id}'.`);
+        renderTable();
+        return;
+      }
+
+      // Send heartbeat every half the timeout (min 3s so the demo is visible)
+      const intervalMs = Math.max(3000, (timeoutSeconds / 2) * 1000);
+      simLog(`Simulation started for '${id}' — heartbeat every ${Math.round(intervalMs / 1000)}s.`, 'ok');
+
+      sendHeartbeat(id, true);
+      simLog(`Heartbeat sent → '${id}' | status: active`, 'ok');
+
+      simulations[id] = setInterval(async () => {
+        const res  = await fetch(`/monitors/${id}/heartbeat`, { method: 'POST' });
+        const data = await res.json();
+        if (res.ok) {
+          const m = monitorsData.find(x => x.id === id);
+          if (m) { m.last_heartbeat = Date.now() / 1000; m.status = 'active'; }
+          updateCountdowns();
+          simLog(`Heartbeat sent → '${id}' | next expected in: ${data.next_expected_in}`, 'ok');
+        } else {
+          simLog(`Heartbeat failed for '${id}': ${data.error}`, 'warn');
+        }
+        loadMonitors();
+      }, intervalMs);
+
+      renderTable();
+    }
+
+    // ── Tick loops ─────────────────────────────────────────
+    setInterval(updateCountdowns, 1000);
+    setInterval(loadMonitors, 5000);
+    loadMonitors();
+  </script>
+
+</body>
+</html>

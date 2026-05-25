@@ -174,7 +174,7 @@ I added `GET /monitors/<id>` and `GET /monitors` as my developer's choice featur
 
 ## Known Limitations
 
-- Monitor state is stored in memory and resets if the server restarts.
-- For a production system, state would be stored in a persistent database like PostgreSQL or Redis.
+- Monitor state is persisted to `monitors.json` and survives server restarts. Active monitors have their timers restarted automatically on startup; down monitors have their retry logic rescheduled.
+- For a production system, state would be stored in a dedicated database like PostgreSQL or Redis for better concurrency and reliability.
 - The threading approach would be replaced with a task queue like Celery for better reliability at scale.
-- debug=True is used for development only and would be disabled in production.
+- `debug=True` is used for development only and would be disabled in production.
